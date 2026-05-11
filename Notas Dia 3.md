@@ -395,6 +395,26 @@ Este sistema utiliza el micrófono de un dispositivo iOS como un iPod o iPad par
 
 Trueplay tuning in action.
 
+## **Arc Ultra**
+
+**Bar-raising innovation**
+One of the most significant breakthroughs in audio engineering in nearly 100 years, Sound Motion™ packs unprecedented performance in an unbelievably flat, compact design.
+
+**Experience Dolby Atmos like never before**
+Arc Ultra creates a 9.1.4 spatial audio experience with Dolby Atmos, compared to the 5.0.2 experience created by Sonos Arc.
+
+**Beyond immersive**
+Add a Sonos Sub and Era 300 rear speakers for unparalleled surround sound, with bass you can feel and jaw-dropping detail from every direction.
+
+**Ultra-clear dialogue**
+Arc Ultra maximizes center channel performance for vocal clarity so you never miss a word. Make dialogue even clearer by choosing your preferred level of Speech Enhancement in the Sonos app.
+
+**High quality at low volume**
+When you want to watch TV but need to keep it down, turn on Night Sound in the Sonos app. This will reduce the intensity of loud effects and enhance quieter sounds.
+
+**Sonos Arc Ultra vs. Arc**
+Arc Ultra features an all-new acoustic architecture with three more drivers than Arc, groundbreaking Sound Motion™ technology, updated touch controls, Bluetooth connectivity, more advanced Speech Enhancement, multiple Trueplay™ options, and a slimmer design.
+
 
 
 
