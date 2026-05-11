@@ -328,7 +328,7 @@ Hay que modificarle los settings, tienen varios features,
 ## *Bottom line:  Sonos works best on a simple, stable network. Fancy router “optimizations” usually make things worse.*
 
 
-##SONOS##
+##SONOS
 
 todos los dispositivos de Sonos tienen un alcance de:
 
@@ -337,6 +337,17 @@ todos los dispositivos de Sonos tienen un alcance de:
 **50 feet** (15 m to **play**)
 
 Todos los dispositivos de sonos estan certificados como **IP67** el 6 quiere decir que es un dispositivo sellado que no admite polvo y que es resistente al agua, el 6 quiere decir que esta sellado y no le va a entrar polvo y el 7 es que tiene alrededor de un metro de waterproof.
+
+Todos los dispositivos de SONOS tienen los siguientes accesorios:
+
+- Power adapter
+- Charging Base
+- Replacement Battery Kit
+- Line-In and Combo Adapters
+- Wall Hook
+- Belkin Carry Case
+
+  
 
 
 
