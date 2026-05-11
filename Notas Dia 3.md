@@ -354,7 +354,9 @@ Sonos Play can group on the go with another Sonos Play or Move 2 whilst connecte
 
 Automatic Trueplay™ makes sure you get the best possible sound, no matter where your speaker is* by using a built in accelerometer to identify movement and simultaneously make EQ adjustments.
 
-**Stream** all your favorite music, audiobooks, podcasts, and stations straight from the Sonos app, which supports over 100 music services worldwide.
+## **Stream**
+
+All your favorite music, audiobooks, podcasts, and stations straight from the Sonos app, which supports over 100 music services worldwide.
 
 **How to Add a Service**
 First, make sure you have an account with the service provider, such as Spotify or Apple Music. Then in the Sonos app go to **Settings > Services & Voice > Music & Content > Add a Service**. Select an available service and follow the instructions to sign in.
@@ -363,6 +365,42 @@ First, make sure you have an account with the service provider, such as Spotify 
 If you live with others who have different taste and their own account with the same service, you can both enjoy listening on Sonos. You'll see the name associated with each account below the service's description in the Sonos app, so you know which one is yours.
 
 Basicamente se agrega en la aplicación y luego se selecciona el usuario en la parte superior izquierda.
+
+## NFC
+Esto quiere decir Near Field Communication, it acts a shortcut for Bluetooth, 
+
+**Pin**
+Products like Amp and Port do not have speakers that emit sound. During setup, the app will ask you to enter the PIN on the product. Once you have entered the PIN, the app will ask you to press the Join button on the product.
+
+**Join Button**
+You can also connect your product to the app by pressing the Join button when instructed.
+
+El metodo para que se pueda agregar es mediante el PIN, eso dice la página web.
+
+## True Play
+
+What is Trueplay?
+
+Purer sound through smarter speakers.
+
+Place your speaker wherever you like with Trueplay tuning. Our all-in-one speakers and home theater systems can adapt to any room for the truest sound.
+
+### *True play only works in iOS*
+
+The shape of a room, the furniture within it and where you place your speaker can all distort the true sound of the music. Trueplay tuning ensures sound is right for the room and true to the music, no matter where the speaker is placed.
+
+** WITHOUT TRUEPLAY EVERY ROOM SOUNDS DIFFERENT **
+
+Este sistema utiliza el micrófono de un dispositivo iOS como un iPod o iPad para ver como está el sonido de algun room, para acceder a esa opción hay que ingresar a la aplicación y luego ir donde dice **Room Settings**.
+
+Trueplay tuning in action.
+
+
+
+
+
+
+
 
 
 
