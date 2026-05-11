@@ -328,7 +328,7 @@ Hay que modificarle los settings, tienen varios features,
 ## *Bottom line:  Sonos works best on a simple, stable network. Fancy router “optimizations” usually make things worse.*
 
 
-##SONOS
+## SONOS Segunda Semana de Training
 
 todos los dispositivos de Sonos tienen un alcance de:
 
@@ -346,6 +346,25 @@ Todos los dispositivos de SONOS tienen los siguientes accesorios:
 - Line-In and Combo Adapters
 - Wall Hook
 - Belkin Carry Case
+
+## Sounds better together
+Sonos Play can group on the go with another Sonos Play or Move 2 whilst connected to the speaker via Bluetooth*. This works with a total combination of up to **four** speakers.
+
+## Tunes itself like magic
+
+Automatic Trueplay™ makes sure you get the best possible sound, no matter where your speaker is* by using a built in accelerometer to identify movement and simultaneously make EQ adjustments.
+
+**Stream** all your favorite music, audiobooks, podcasts, and stations straight from the Sonos app, which supports over 100 music services worldwide.
+
+**How to Add a Service**
+First, make sure you have an account with the service provider, such as Spotify or Apple Music. Then in the Sonos app go to **Settings > Services & Voice > Music & Content > Add a Service**. Select an available service and follow the instructions to sign in.
+
+**Adding Multiple Accounts of a Single Service**
+If you live with others who have different taste and their own account with the same service, you can both enjoy listening on Sonos. You'll see the name associated with each account below the service's description in the Sonos app, so you know which one is yours.
+
+Basicamente se agrega en la aplicación y luego se selecciona el usuario en la parte superior izquierda.
+
+
 
   
 
