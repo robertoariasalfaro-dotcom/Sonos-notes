@@ -415,6 +415,58 @@ When you want to watch TV but need to keep it down, turn on Night Sound in the S
 **Sonos Arc Ultra vs. Arc**
 Arc Ultra features an all-new acoustic architecture with three more drivers than Arc, groundbreaking Sound Motion™ technology, updated touch controls, Bluetooth connectivity, more advanced Speech Enhancement, multiple Trueplay™ options, and a slimmer design.
 
+**Controls**
+Arc Ultra features a ledge with updated touch controls. Here you'll find play/pause, skip, replay, voice assistant on/off, and the new volume slider.
+
+**Bluetooth button**
+Arc Ultra is Bluetooth-enabled allowing friends and family to stream their music directly to the soundbar and then group it with other speakers in your home.
+
+**Mic switch**
+Toggle off this switch on the back of the product to disconnect power to the mics. 
+
+**Controls**
+
+Use the capacitive touch controls on the centre of the touch ledge to control playback.
+
+Tap the play/pause button to start and pause audio playback
+Tap and hold the play/pause button to group speaker audio.
+Skip a track by tapping the right arrows, or revisit a track by tapping the left arrows. 
+
+Glide your finger up and down the slider to adjust the volume to the desired level.
+
+Disable the voice assistant by tapping the speech bubble. This does not fully disconnect the microphones. That can be done by toggling the microphone switch off on the back of the soundbar.
+
+**Midwoofers**
+
+**Six woofers** ensure faithful playback of mid-range frequencies.
+
+**Woofers**
+
+Sound Motion™, a **four-motor**, dual-membrane woofer, delivers exceptional bass in a revolutionary flat, compact design.
+
+**Tweeters**
+
+**Seven** precisely angled silk-dome tweeters create crisp high frequencies and clear dialogue. Two of these fire upward, creating dedicated height channels for spatial audio.
+
+**Control your way**
+
+Use your **TV remote**, the Sonos app, and the touch controls on top of the soundbar. Enjoy hands-free ease and unmatched privacy with Sonos Voice Control. Get extra help from Amazon Alexa.*
+
+
+**Bluetooth out of the box**
+
+Para la mayoría de los dispositivos primero se deben de conectar a la app, algunos salen directamente de la caja y se pueden conectar a bluetooth directamente. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
