@@ -388,6 +388,41 @@ Bi-directional: These adapters work identically in both directions. You can pass
     <td>No</td>
     <td>Compacta, Dolby Atmos</td>
     </tr>
+    <td>Subwoofers</td>
+    <td>Sub 4</td>
+    <td>Ethernet</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Graves profundos, sin cables</td>
+    </tr>
+    <td>Subwoofers</td>
+    <td>Sub Mini</td>
+    <td>Ethernet</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Diseño compacto</td>
+    </tr>
+    <td>Componentes</td>
+    <td>Amp</td>
+    <td>HDMI ARC, RCA, Ethenet</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Amplificador de terceros, 125W</td>
+    </tr>
+    <td>Componentes</td>
+    <td>Port</td>
+    <td>RCA, Digital, Ethernet</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Streaming para equipos hifi</td>
+    </tr>
+    <td>Auriculares</td>
+    <td>Ace</td>
+    <td>USB-C, Jack 3.5mm</td>
+    <td>BT 5.4</td>
+    <td>Sí</td>
+    <td>Cancelación ruido, audio espacial</td>
+    </tr>
 </table>
 
 
@@ -521,6 +556,51 @@ The LEGACY devices the Play 5 (Gen 1), that only works in the S1 app.
 - Play 5 (Gen2)
 - Sonos One / SL
 - Move
+
+
+### AUDIO COMPONENTS
+
+- Do not have built-in-speakers
+
+Need to be wired to external speakers to produce sound.
+
+- Need a Receiver to output audio
+
+Line In and Line Out.
+
+They need an amplifier to produce sound, para eso ocupamos el **Sonos Amp**
+
+## SONOS AMP
+
+- 125 watts per channell
+- HDMI ARC
+- Touch Control
+- Line In
+- Apple AirPlay 2
+- Wi-Fi
+
+La diferencia entre un speaker pasivo o activo, es que un device como el Sonos amp, es pasivo, ya que necesita de otros speakers pasivos para emitir sonido.
+
+Se le puede conectar un turntable, siempre utiliza internet.
+
+## SONOS PORT
+
+- 
+
+# INPUTS VS OUTPUTS
+
+PASIVO NO TIENE CABLE DE CORRIENTE.
+
+https://support.sonos.com/en-us/article/sonos-app-version-compatibility
+
+https://support.sonos.com/en-us/article/sonos-led-lights
+
+https://www.sonos.com/en-us/guides/arc
+
+https://www.sonos.com/en-us/guides/sonosplay
+
+
+
 
 
 
