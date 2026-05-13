@@ -193,8 +193,6 @@ The headphones, WiFi does not have this option avaible, **No wi-fi**.
 
 Se usa la app para conectarla a una barra de sonido, y ademas tiene la opcion de TV Auto Swap, como la ARC and ARC Ultra, almost all of the bars, como el beam Gen 1 and 2. Sonos Ray and Arc and Arc Ultra.
 
-**Line IN**
-
 Trae dos tipos de cables, uno de un 3.5 que tiene en la otra termian a un conector regular de phone actual.
 
 SONOS ACE tiene dos caras, left y right y los cobertores no se pueden cambiar de lado, el left y right solo calza en el left y right.
@@ -333,10 +331,63 @@ Bi-directional: These adapters work identically in both directions. You can pass
     <td>Wi-Fi, BT</td>
     <td>Sí (Audio)</td>
     <td>Nuevo (2026), entrada al sistema</td>
-     </tr>
-    <td>Tweeter</td>
-    <td>2 kHz - 20 kHz</td>
-    <td>Agudos (detalles)</td>
+    </tr>
+    <td>Portátiles</td>
+    <td>Play (2026)</td>
+    <td>USB-C</td>
+    <td>Wi-Fi, BT</td>
+    <td>Sí (Audio)</td>
+    <td>Nuevo (2026), entrada al sistema</td>
+    </tr>
+    <td>Escritorio</td>
+    <td>Era 300</td>
+    <td>USB-C, Wi-Fi 6, BT</td>
+    <td>Wi-Fi 6, BT</td>
+    <td>Sí (Audio)</td>
+    <td>Dolby Atmos, audio espacial</td>
+    </tr>
+    <td>Escritorio</td>
+    <td>Era 100</td>
+    <td>USB-C</td>
+    <td>Wi-Fi 6, BT</td>
+    <td>Sí (Audio)</td>
+    <td>Stereo, graves potentes, compacto</td>
+    </tr>
+    <td>Escritorio</td>
+    <td>Era 100 SL</td>
+    <td>USB-C</td>
+    <td>Wi-Fi 6, BT</td>
+    <td>Sí (Audio)</td>
+    <td>Sin micrófonos, stereo, nuevo 2026</td>
+    </tr>
+    <td>Escritorio</td>
+    <td>Five</td>
+    <td>Jack 3.5mm (Línea)</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Alta fidelidad, orientable</td>
+    </tr>
+    <td>Cine en Casa</td>
+    <td>Arc Ultra</td>
+    <td>HDMI eARC, Óptico</td>
+    <td>Wi-Fi 6</td>
+    <td>No</td>
+    <td>Premium Sound Motion</td>
+    </tr>
+    <td>Cine en Casa</td>
+    <td>Beam (Gen 2)</td>
+    <td>HDMI eARC, Óptico</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Compacta, Dolby Atmos</td>
+    </tr>
+    <td>Cine en Casa</td>
+    <td>Ray</td>
+    <td>HDMI eARC, Óptico</td>
+    <td>Wi-Fi 5</td>
+    <td>No</td>
+    <td>Compacta, Dolby Atmos</td>
+    </tr>
 </table>
 
 
@@ -404,7 +455,72 @@ Both of them have microphone and, to activate the microphone hay que agregar el 
 
  https://www.sonos.com/en-us/home
 
- 
+## LEGACY PRODUCTS
+
+**SONOS PLAY ONE**
+
+**SONOS ONE SL.**
+
+Los voice services no pueden coexistir.
+
+Sonos Play, Sonos One, Sonos One SL
+
+La diferencia es entre estos es el voice assistant, el Sonos one tiene voice assistant.
+
+## IKEA
+There is a partnership with **IKEA** donde se crearon productos conjuntos como IKEA Symfonisk (Table Lamp, Bookshelf and Picture frame) 
+
+La lampara es un Sonos One SL, ninguno de los tres tiene microphone.
+
+
+# LEGACY DEVICES
+
+**PLAY 1, PLAY 2, PLAY 5 (GEN 2), PLAY 5 (GEN 1).**
+
+They do work with ethernet cable and wi-fi, can be connected to the router.
+
+No trueplay, no tunning, all of them have physical buttons, play 5 Gen 1, has a 3.5 mm port, has a headphone port. 
+
+PLAY 5 (GEN 1) SE PUEDE USAR COMO BRIDGE DEL ROUTER, SE CONFIGURA COMO BRIDGE.
+
+JOIN BUTTON AND INFINITIVE BUTTON ARE THE SAME.
+
+## SOLID GREEN = MUTED
+
+Para ver los colores y su significado ir al siguiente link:
+
+https://support.sonos.com/en-us/article/sonos-led-lights
+
+
+WE HAVE TWO SONOS APPLICATIONS
+
+The **S1** is the **legacy**.
+
+The new onw is **Sonos App**
+
+The LEGACY devices the Play 5 (Gen 1), that only works in the S1 app.
+
+**SONOS S1**
+
+- CR200
+- PLAY 5 (GEN 1)
+- 
+
+**SONOS APP (NEWER)**
+
+- Era 100/SL
+- ERA 300
+- SONOS PLAY
+- SONOS FIVE
+- SONOS ACE
+- MOVE 2
+- ROAM 2 / ROAM / SL
+
+**BOTH**
+
+- Play 5 (Gen2)
+- Sonos One / SL
+- Move
 
 
 
