@@ -995,6 +995,29 @@ Wi-Fi models / Speeds and Sonos
 
 Los ERAS tienen el /22 y tienen Ips que normalmente van desde 192.168.4.0 al 192.168.7.255.
 
+### **EXISTEN MANAGED Y UNMANAGED SWITCHES**
+
+Estos son los que se pueden configurar y los que no se pueden configurar.
+
+Si es unmanaged, no se le puede hacer nada, si no funciona hay que decirle que no conecte nada a ese switch.
+
+Mesh systems, es como un Access Point, la cual tiene configuraciones diferentes o la misma en los tres, con los mesh systems todos tienen la misma configuracion.
+
+Hay dispositivos que tienen modem y routers al mismo tiempo.
+
+Normalmente los switches que tienen pocos puertos son unamanged, pero no siempre se cumple esta regla.
+
+**Bluetooth Low Energy** (Sonos One lo tiene)
+El celular encuentra el bluetooth del parlante, ya que fue activado por un rato pequeño, para que el speaker guarde la información de la red, como la IP y demás.
+
+Play 5 y otros no tienen Bluetooth low energy, ellos crean una red de sonos, la crea un toque para poder comunicarse con el celular.
+
+
+
+
+
+
+
 
 
 
