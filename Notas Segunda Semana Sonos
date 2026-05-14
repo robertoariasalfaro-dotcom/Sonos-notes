@@ -580,10 +580,6 @@ Se le puede conectar un turntable, siempre utiliza internet.
 
 - They are not going to produce any sound, they are passive, they need speakers to sound, tiene line in y line out para entrada y salida de audio.
 
-
-
-- 
-
 # INPUTS VS OUTPUTS
 
 ## PASIVO NO TIENE CABLE DE CORRIENTE.
@@ -732,7 +728,7 @@ No es un codec,
 
 ## **Dolby True HD**
 
-- Dolby[s lossless high end codec.
+- Dolbys lossless high end codec.
 - Lossless compression, bit perfect, higher birate (Can exceed 18 MBPS) compared to Atmos which is usually 768 KBPS.
 - Spatial details, dynamics, separation, bass precission.
 
@@ -874,6 +870,47 @@ NETWORK 5 GHZ, EL RANGE ES LA GRAN DESVENTAJA, 20 FEET AWAY (Si está mas largo 
 El 5 gHZ trata de arreglar los problemas, puede agruparse todo el home theater setup, todos tienen dos antenas una de 2.4 y una de 5., los surrounds, van en la frecuencia va en 5 y se comunica con otros dispositivos mediante la frecuancia 2.4
 
 los legacy devices solo se pueden agrupar en la red 2.4 GHZ.
+
+La ventaja del 2.4 es el range, que es mas amplio, pero no tiene tanta velocidad, como el 5 Ghz.
+
+La comunicacion del beam con el router se hace por 2.4 GHZ, en un home theater se pasa audio y video, pero eso debe de transmitirse en una red 5 GHZ.
+
+El tele transmite al Beam por medio de HDMI y lo demas se comunica por 5 GHZ mediante Wi-Fi, lo que se hace es agrupar dos, y transmiten por 2.4 GHZ, puede haber algún delay por que los agrupados transmiten en la red 2.4 y los otros speakers y subs, en 2 GHZ.
+
+Los ERAS pueden ir directamente al 5 GHZ.
+
+Los surrounds pueden ser all the **all in one.**.
+
+Todos los surrounds tienen dos antenas, para que se puedan comunicar con el beam.
+
+Connect amp no tiene la antena del 5 GHZ, los portables no tienen la antena de 5 GHZ.
+
+## Accesories
+
+- Speaker Stands
+- Wall mounts
+- Cables.
+
+Hay un partnership con Belki.
+
+**SONOS PLAY, ACE, ERA 100, ERA 300, MOVE 2**
+
+Sonos line adapter USB-C port to 3.5 mm analog audio jack for a line-in audio connection.
+
+## SONOS APPs
+
+- Sonos S1 (Legacy)
+- Sonos App
+
+
+
+
+
+
+
+
+
+
 
 
 
