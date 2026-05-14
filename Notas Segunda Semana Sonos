@@ -616,6 +616,141 @@ https://www.sonos.com/en-us/guides/arc
 https://www.sonos.com/en-us/guides/sonosplay
 
 
+# HOME THEATER
+
+Supported Audio Formats
+
+- Stereo PCM
+- Dolby Ditital
+- DTS (Not Supported on S1)
+
+# Sonos ARC, ARC SL, Arc Ultra and Beam
+
+- Dolby Digital plus
+- Dolby Atmos (Dolby Digital Plus)
+- Dolby Atmos
+- Dolby True HD
+
+## AUDIO TECHNOLOGY
+
+- Codex or Compression Format
+
+- Channel Format (How many channels support)
+
+- Transport Method
+
+## why does audio need to be compressed of encoded
+
+- Bandwith
+- Compatibility
+- Dynamics
+- Redundancy
+
+## Types of audio compression
+
+1- Lossless (reduces )
+2- Lossy
+
+## STEREO PCM
+
+- Uncompressed audio (Lossless)
+- 2 Channels (left and right)
+- low processing complexity
+- Limitation only 2 channels in stereo mode.
+
+**PCM** Pulse Code Modulation, standard to present sound analog to digital.
+
+It it taking tiny samples of analgo sound waves and converting them into binary data, to then reconstruction during playback.
+
+**Sample Rate** samples per second (44.1 kHz, 48 kHz, 96 Khs)
+
+Higher the beat, the better.
+
+## Dolby Ditital (AC3 Audio codec 3)
+
+- Compressed surround sound code developed by Dolby Laboratories.
+- Supports 5.1 channels.
+- Lossy Compression.
+- Low Bandwith requirements, reliable over ARC and optical.
+- Lower Fidelity and less previsse surround imaging.
+
+## DTS  (Digital Theater Systems)
+
+- Sorrund codec from DTS Inc.
+- 5.1 Channels
+- Lossy Compression
+- Preferred by enthusiasts but it relies on mastering and bitrate differences.
+- TVs often do not pass DTS properly.
+
+ARC Audio Return channel, allows audio to travel backward through HDMI.
+
+5.1 / 5 cantidad de parlantes que tenemos el 1 es un bajo. de 0hz a 80hz.
+
+HDMI and optical (Fibra óptica)
+
+**WORST FORMAT FOR SORROUND SOUND**
+
+**LA DIFERENCIA QUE TIENEN ES QUE EL BTS SUENA MEJOR, TIENE MAS FIDELITY.**
+
+**MASTERIZACION ES QUE SE COMPRIME EL ADUIO, SE VUELVE A ECUALIZAR, PARA VER DONDE ESTA MAS LLENO DE FRECUENCIAS, LE BAJA DONDE ES MAS NOISY PARA QUE QUEDE NIVELADO, A LA SEGUNDA ECUALIZACION SE LE APLICA UNA COMPRESION MAS**
+
+## **DOLBY DIGITAL PLUS (E-AC-3)**
+
+- Improved version of Dolby Ditital.
+- Standard Streaming sorround format.
+- Efficient Compression, Better quality at lower bitrates.
+- Supports more channels, up to 7.1.
+
+X.X.X
+
+En el primero va el front, left, right
+El segundo es el sub.
+
+7.1
+
+En el 7 van center, 
+
+LR| L|C|R|RR
+
+  |Beam  |
+  |Playbar|
+  |PlayBase|
+
+|    ARC     |
+
+
+## **DOLBY ALTOMS**
+
+No es un codec, 
+- Dolby Atmos metadata carried inside Dolby Ditital Plus.
+- Compressed Atmos, Lower bitrate.
+- Height speakers, object positioning, dynamic 3D sound placement.
+- Lower than TrueHD Atmos.
+- Lossy HDMI, eARC required and source dependent.
+
+** Atmos is not a codec, it is object based spatial metadata, the actual audio codec may be Dolby Ditial Plus or Dolby TrueHD.
+
+## **Dolby True HD**
+
+- Dolby[s lossless high end codec.
+- Lossless compression, bit perfect, higher birate (Can exceed 18 MBPS) compared to Atmos which is usually 768 KBPS.
+- Spatial details, dynamics, separation, bass precission.
+
+## **Dolby Atmos TrueHD**
+
+- Best consumer atmos format avaiable
+- Combines Dolby Atmos metadata and Dolby TrueHD lossless audio.
+- Required eARC and enough bandwith.
+- Does not pass through optical audio or standard ARC.
+
+
+
+
+
+
+
+
+
 
 
 
