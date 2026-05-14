@@ -1012,6 +1012,27 @@ El celular encuentra el bluetooth del parlante, ya que fue activado por un rato 
 
 Play 5 y otros no tienen Bluetooth low energy, ellos crean una red de sonos, la crea un toque para poder comunicarse con el celular.
 
+NFC es un sensor, los dos dispositivos deben de tenerlo, para que se encuentren.
+
+El **Button press** **NFC** es la forma de conectarse entre algunos dispositivos.
+
+- Player's join button is pressed and sends out broadcast packets.
+
+**NFC** **(Near Field Communication** o comunicación de campo cercano) es una tecnología inalámbrica de corto alcance **(generalmente menos de 4 cm)** que permite el intercambio de datos seguro y rápido entre dispositivos al acercarlos. **Funciona a 13.56 MHz, basada en la identificación por radiofrecuencia**
+
+El Chirp Passcode, es como un sonido que se usa para poder linkear devices, lo malo es que el celular esta usando el micrófono de la llamada, no podria usarlo linkear con chirp passcode.
+
+Si no sirve se le da autenticar utilizando **otro método** y normalmente **se usa el PIN,** el cual esta abajo del dispositivo normalmente. 
+
+Las tarjetas de las barras de sonido sirven como bridge. 
+
+De las barras de sonido se pegan a la 2.4 solo la ARC Ultra se puede conectar a la 2.4 y 5 GHZ, las otras barras solo 2.4.
+
+La conexion a los satelites siempre se da en 5 GHZ.
+
+Play 1 or 3 se pueden conectar a la 2.4.
+
+
 
 
 
