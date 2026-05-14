@@ -902,6 +902,51 @@ Sonos line adapter USB-C port to 3.5 mm analog audio jack for a line-in audio co
 - Sonos S1 (Legacy)
 - Sonos App
 
+There are some requirements.
+
+Hay que descargar la app desde el website, no desde la app store o algo asi.
+
+Sonos Radio HT es billable, o sea que es de pago.
+
+## Paring:
+- when two of the same Sonos player are bonded togheter to create stereo sound.
+
+- One player plays the right channel.
+Only possible with two of the same sonos player.
+
+- n ERA 100 y un ERA 300 no se puden pair.
+
+- El audio sale en dos direcciones, left y right.
+
+## Bonding:
+- Surrounds, anything more than a stereo pair, exceptuando los portables (Los portables no pueden ser surrounds). Incluye home theater setups.
+
+- Home theater Play Five Gen 1, no funciona como surround.
+
+## Grouping:
+
+- Streaming the same audio across multiple sonos players.
+
+- All Sonos players whitin a Sonos system can be bonded togheter.
+
+## GIB (Grouping in Bluetooth) solo sirve en la versión Bluetooth, 5.3 y el rom 5.0 el 5.4 lo usa el ACE.
+
+- Move 2 / Play, up to 4, off lan.
+
+## Grouping in Bluetooth Mode, se hace con el move 2 y sonos play, up to 4.
+
+**TODO ESTO SE HACE SOBRE WIFI**
+
+EL ACE NO FUNCIONA EN EL WIFI, ESTOS SOLO BLUETOOTH, MEDIANTE EL TV AUDIO SWAP.
+
+LOS PLAY PUEDEN HACER GROUPING EN BLUETOOTH.
+
+
+
+
+
+
+
 
 
 
