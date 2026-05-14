@@ -941,6 +941,68 @@ EL ACE NO FUNCIONA EN EL WIFI, ESTOS SOLO BLUETOOTH, MEDIANTE EL TV AUDIO SWAP.
 
 LOS PLAY PUEDEN HACER GROUPING EN BLUETOOTH.
 
+## SonosNet vs Station Mode
+
+**SonosNet** at least one Sonos player is hardwired to the network and the rest of the systems communicates directly with other sonos players.
+
+- Sonos creates a Sonos-Only mesh network.
+- Root Bridge
+
+**Station Mode**, System is wirelessly connected. every Sonos player commnicates directly with the router access point. 
+
+**ESTAS REDES SON HIDDEN SSID.**
+
+El parlante le envia la info al root bridge, y este le da el internet a todos los dispositivos.
+
+**LOS ROUTE BRIDGES, UTILIZAN EL MAC ADDRESS MAS BAJO, LOS QUE INICIAN CON NUMEROS Y LUEGO LETRAS DE MANERA HEXADECIMAL.**
+
+Los dispositivos que estan conectados por ethernet port, el sistema va a tomar el mac address mas bajo.
+
+## Key Details
+
+- No wireless communications with the wifi network.
+- Rood Bridge (Wired Device).
+- Communications goes through the root bridge.
+- More than one wired player, lowest MAC
+- Ethernet Connection.
+- SonosNet relies on wireless channels 1, 6, or 11.
+- Los Wireless Channels se pueden cambiar por medio del router o en el sonos app.
+
+Los ACEs, ARC, tienen esas características.
+
+**Algunos no se conectan a los sonos networks:**
+
+- ACE
+- ARC Ultra
+- ERA 300
+- ERA 100
+- Roam 1 y 2
+- Play
+- Move 1 y 2.
+- Sub4
+
+**Los portables, los eras y el arc y el sub4.**
+
+**Key Details - Station Mode**
+
+Wi-Fi models / Speeds and Sonos
+
+- All Sonos speakers and components can connect to wireless routers or access points that support 802.11b/g Wifi over 2.4 GHZ.
+
+- All Sonos speakers can connect to WPA and WPA2.
+
+- New Products supports WP3, 802.11N, 802.11AC (WiFi 5), 802.11AX (WifI 6).
+
+
+
+
+
+
+
+
+
+
+
 
 
 
