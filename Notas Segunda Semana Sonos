@@ -743,6 +743,27 @@ No es un codec,
 - Required eARC and enough bandwith.
 - Does not pass through optical audio or standard ARC.
 
+## ATMOS NO ES UN CODEC, TOMA LA TEGNOLOGIA DOLBY Y LA MEJORA
+
+## **Multichannel PCM**
+
+- Los devices hace la codificación y mandan los canales crudos sin comprimir.
+- Uncompressed surround atmos.
+- Lossless extreme high quality.
+- If the source is lossless before decoding, PCM remains lossless.
+
+## **Dolby Multichannel PCM**
+
+- PCM Audio.
+- Dolby Spatial metadate involved.
+- Dolby MAT
+
+*Dolby MAT: **metadata enhanced Autio Transmission,** it is not a codec, it is a transport system used to send uncompressed PCM audio and atmos metadata, over HDMI it can create lip-sync issues on poor HDMI chains.*
+
+
+
+
+
 
 
 
