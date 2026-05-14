@@ -760,6 +760,141 @@ No es un codec,
 
 *Dolby MAT: **metadata enhanced Autio Transmission,** it is not a codec, it is a transport system used to send uncompressed PCM audio and atmos metadata, over HDMI it can create lip-sync issues on poor HDMI chains.*
 
+## HomeTheater 
+
+- Able to play music on their own.
+- Similar to All-in-One speakers, all you need for sound in one player.
+- Able to play TV audio directly from a TV, 
+- Via digital cable, optical or HDMI.
+
+On their own it will support center, left, and right.
+
+Up to 5 surrounds.
+
+5.0.2 es Altmos.
+
+Example configurations: 5.1, 5.1.2, and 7.1.4.
+
+El atmos numbers siempre va en par.
+
+9.2.4 ese es el máximo.
+
+**Beam/PlayBar/PlayBase**
+
+| L  | C  | R  | **Este sería un 3.0**
+
+Beam + Sub **3.1**
+
+Beam + (2)Sonos One+ Sub **5.1** (Tres de Beam + 2 Sonos).
+
+## HOME THEATER - SOUNDBARS
+
+- Sonos Arc Ultra (Tiene bluetooth)
+- Sonos Arc
+- Sonos Beam (Gen 2)
+- Sonos Ray (No voice service)
+
+Desde los **ERAS** para acá los dispositivos **no** tienen acceso a **Google Assistant.**
+
+Night sound es que acomoda el sonido para darle preponderancia a las voces.
+
+Los soundbars se pueden controlar con el control remoto del tele.
+
+https://support.sonos.com/en/article/supported-home-theater-audio-formats
+
+https://support.sonos.com/en/article/listen-to-dolby-atmos-audio-from-your-tv-on-sonos
+
+https://www.sonos.com/en/blog/hdmi-arc-earc-compared?srsltid=AfmBOoqfTOmxHs5bcKslRjeOVr9zGdb8kWj_p_q8d1YfP39uYNj3_amG
+
+
+La clasificación mínima estándar para considerarse un **verdadero** sistema de **home theater** (cine en casa) con sonido envolvente (surround) es **5.1.**
+
+### Aquí te detallo qué significa y por qué:
+
+**¿Qué es 5.1?** Se compone de 6 canales en total: 5 altavoces (delantero izquierdo, delantero derecho, central, y dos traseros/surround) + 1 subwoofer para efectos de baja frecuencia (graves).
+
+**Por qué el 5.1 es el mínimo:** Esta configuración permite la inmersión sonora auténtica, permitiendo escuchar sonidos detrás y a los lados del espectador.
+
+**El canal central es clave:** Aunque existen sistemas 2.1 (dos altavoces + subwoofer), no se consideran "surround" o teatro en casa verdadero porque carecen del canal central, indispensable para diálogos claros en películas.
+
+
+**Home theater**
+ATMOS tiene que ser 5.0.2
+
+## Home theater amp
+
+puede tomar el lugar de un soundbar, por el cappability del HDMI, 
+
+Beam/PlayBar/Playbase, tiene 3 canales.
+
+El Amp tiene tres canales tambien, tiene dos puertos left y right.
+
+Puede ser surround pero tiene que tener otro conectado. cumple la misma funcion del beam con el era 300.
+
+El bluettoth, el era 300 y el era 100 no son portables.
+
+Puede ser audio component por el HDMI, puede ser surround.
+
+A los surround se les dice tambien **satelites**.
+
+**HOME THEATER LEGACY**
+
+Si es legacy normalmente es optical.
+
+Playbar, playbase and Beam (Gen 1).
+
+El playbase es un 3.0 es como para teles pequeños.
+
+El playbar tiene physical 
+
+El beam es 3.0 no voice cappable, no virtualiza nada.
+
+## HOME THATER SUBS
+
+- Sub (Gen 4)
+- Sub (Gen 3)
+- Sub Mini.
+
+No funciona solo es pasivo, ocupa alimentación de alguna fuente.
+
+La diferencia entre cada generación de subwoofer es el aspecto, el gen 1 tiene join button, los otros tienen infinity.
+
+Tiene que estar conectado a algo mas para que suene.
+
+Todos fucionan con Wi-Fi, todos los devices de Sonos, funcionan Wi-Fi.
+
+**Nunca le piden a un cliente que mueva un sub para pegarlo al router.**
+
+## El extender afecta la red y no es supported
+
+## HOME THEATHER SURROUNDS
+
+NETWORK 5 GHZ, EL RANGE ES LA GRAN DESVENTAJA, 20 FEET AWAY (Si está mas largo de eso da problema).
+
+El 5 gHZ trata de arreglar los problemas, puede agruparse todo el home theater setup, todos tienen dos antenas una de 2.4 y una de 5., los surrounds, van en la frecuencia va en 5 y se comunica con otros dispositivos mediante la frecuancia 2.4
+
+los legacy devices solo se pueden agrupar en la red 2.4 GHZ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
