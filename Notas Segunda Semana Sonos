@@ -1121,6 +1121,25 @@ Es algo solo de iOS y es para controla output sound desde mi devie mediante una 
 
 Lo que hace el parlante es conectarse y pedir donde esta spotifiy por ejemplo, el sale por medio del modem y le pregunta al ISP acerca de la direccion, y esta le envia el ip para que el parlante sepa donde conectarse.
 
+Needs to be solid white to be able to get updated.
+
+Cuando falla Tune-In, hay que intentar usar Sonos radio.
+
+En los diagnosticos sale los music services asociados y si son Free or Premium.
+
+#### PREMIUM ON DEMAND MUSIC SERVICES
+
+- Deezer
+- Apple Music
+- Google Music
+- Spotify
+
+#### HIGH DEFINITION MUSIC SERVICES
+
+The main difference es que es mucho mas caro high definition.
+
+  
+
 
 
 
