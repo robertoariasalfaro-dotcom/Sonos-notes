@@ -1031,6 +1031,57 @@ De las barras de sonido se pegan a la 2.4 solo la ARC Ultra se puede conectar a 
 La conexion a los satelites siempre se da en 5 GHZ, play 1 or 3 se pueden conectar a la 2.4.
 
 
+## Para quitar el line-in, se debe de seleccionar un music source
+
+
+- NFC
+- Chirp  
+- Manual PIN
+- Button Press
+
+Cuando ingresa a la app
+
+- Speaker
+- Headphone
+- Join Existing System (Ya existe un previous household o audio system)
+
+Existe el multicast, unicast y broadcast. El unicast es peer to peer.
+
+### POWER CYCLE ES LO MISMO QUE REBOOT Y SE HACE DESCONECTANDO Y CONECTANDO EL DISPOSITIVO.
+
+
+Station es diferente, es cuando esta en linea, cuando se cablea pasa a otro sistema de red llamado 
+
+### POWER CYCLE ES DESCONECTARLO Y CONECTARLO.
+
+## DISCONNECT THE DEVICE, PRESS THE BUTTON, UNTIL THE LIGHT GETS ORANGE AND WHITE LIGHT.
+
+Los network requirements needs to met.
+
+Cuando hay un diagnostico y se ve que por ejemplo el router esta utilizando los canales 1 y 149, pero el SSID tiene el mismo nombre, por eso hay que hacer una division ponerle nombre diferente a las dos frecuencias 2.4 GHZ o un 5.0 GHZ.
+
+## Airplay es como un bluetooth de iOS.
+
+Este es el orden de los colores, cuando se la hace un reset: 
+
+## **Rojo, Blanco, Naranja, Verde, Blanco.**
+
+- Rojo: Solid Red = Critical error.
+- Blanco: Device is powering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
