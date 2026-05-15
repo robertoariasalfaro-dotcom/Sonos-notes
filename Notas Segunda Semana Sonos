@@ -1164,7 +1164,7 @@ The main difference es que es mucho mas caro high definition.
 - As well the Subwoofer was causing issues.
 - Agent applied wifi scan
 - Agent confirmed the network that the speakers were connected to.
-- Explained the issue of having two networks, mesh system
+- Explained the issue of having three networks, mesh system
 - The agent asked to set a device, the mesh system 12 feet away, mesh satelite router plugged to an internet port.
 - Google mesh system.
 - To avoid the devices to get confused, the mesh system needs to be changed to bridge.
@@ -1177,6 +1177,52 @@ The main difference es que es mucho mas caro high definition.
 *Se quejo de que que le pasa desconectando, cuando hay un mesh system debe de haber un bridge mode.*
 
 *En el diagnostico se ven los pending updates, sonos player lost connection with access point, no sabe si ir al router o al mesh system y su access point.*
+
+CUANDO UN CLIENTE TIENE UN MESH SYSTEM, TIENE QUE TENER UN BRIDGE MODE.
+
+### MESH SYSTEM, ES UNA RED TIPO MALLA, DONDE HAY VARIOS DEVICES CONECTADOS, CONECTADOS A UN NODO PRINCIPAL, POR ESO SE OCUPA HACER UN BRIDGE MODE.
+
+MESH Es cuando tengo el router, wired to the router o nodo principal y los demas wireless.
+
+## TEMPLATE
+
+Issue description:
+
+Name:
+
+Phone:
+
+System:Existing/New
+App / Controller:
+
+Sonos product and room name:
+
+Troubleshooting: (Include relevant topo, Guru, and diag w/explanation in steps)
+
+If resolved
+
+Summarize the resolution: Sonos Desktop app insgtalled and web version Enabled
+
+Final Diag: Issue Resolved
+
+If not resolved
+
+Recommended next steps and Guru cards:
+
+Actions or tests the customer will do:
+
+Last diag (for technical cases):
+
+## VALIDATION
+
+- Nombre completo
+- Número de teléfono
+- Email
+
+### Desde un PC se puede controlar todo, pero no se puede setear.
+
+
+
 
 
 
