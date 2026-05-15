@@ -1087,12 +1087,50 @@ Es un diagnostico relizado relacionado al network connection.
 
 - Green: Cuando está **flashing** the **ethernet is down**, cuando está **solid** es que está **reciviendo datos.**
 
+Flashing orange and white, means updating.
+
+#### LOS LEGACYS CREAN SU PROPIA SUBRED O TEMPORARY WIFI QUE SE IDENTIFICA COMO SONOS Y ALGO MAS
+
+#### NO SE PUEDE SETEAR UNA COMPU O LAPTOP PARA SETEAR UN MODEM, UN DISPOSITIVO QUE SIRVA COMO CONTROLLER.
+
+### SI NO SE PUEDE CONECTAR WIRELESS, DESPUES HAY QUE CABLEARLO, PERO NO SIEMPRE SIRVE, ENTONCE SERIA MODEM SETTINGS.
+
+# SONOS CLOUD
+
+Es el servicio de la nube, nos ayuda a la comunicación con las apps, todo lo que pasa en Sonos va a estar guardado en Sonos cloud.
+
+- We need connection to the Sonos cloud for getting updates.
+
+- The Sonos clould will allow the music service requests to the music service content delivery network.
+
+- Ellos dicen cloud connected en el app.
+
+**MUSIC Library**, es una info que se guarda en un NAS, en una compu, en una llave maya, es la librería de musica, la cual se guarda en el parlante.
+
+En sonos cloud, se guarda el camino para llegar al music service.
+
+### Local direct control
+
+We allow something that controls the music instead of the local native application.
+
+### Airplay
+
+Es algo solo de iOS y es para controla output sound desde mi devie mediante una app para controlar musica.
+
+### CDN = Contect Delivery Network
+
+Lo que hace el parlante es conectarse y pedir donde esta spotifiy por ejemplo, el sale por medio del modem y le pregunta al ISP acerca de la direccion, y esta le envia el ip para que el parlante sepa donde conectarse.
 
 
 
 
 
-- 
+
+
+
+
+
+
 
 
 
