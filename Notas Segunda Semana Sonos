@@ -1069,6 +1069,31 @@ Este es el orden de los colores, cuando se la hace un reset:
 - Rojo: Solid Red = Critical error.
 - Blanco: Device is powering
 
+## LED Lights
+
+Status light for Sonos products.
+
+- **Solid White** (Up and Running) Siempre va estar on a no ser que el lo apague.
+- **Solid Blue** (Connecte to a Bluetooth)
+- **Flashing Blue** (Paring Mode)
+- **Solid Red**, time out after factory reset, failure or error, update error.
+- **Solid Green:** Muted
+
+## LED Test
+
+Es un diagnostico relizado relacionado al network connection.
+
+- Orange: **Flashing** router or DHCP **no** asigna **IP**. **Solid**, es que tiene comunicación con el network o **si tiene IP.**
+
+- Green: Cuando está **flashing** the **ethernet is down**, cuando está **solid** es que está **reciviendo datos.**
+
+
+
+
+
+
+- 
+
 
 
 
