@@ -389,7 +389,7 @@ Place your speaker wherever you like with Trueplay tuning. Our all-in-one speake
 
 The shape of a room, the furniture within it and where you place your speaker can all distort the true sound of the music. Trueplay tuning ensures sound is right for the room and true to the music, no matter where the speaker is placed.
 
-** WITHOUT TRUEPLAY EVERY ROOM SOUNDS DIFFERENT **
+**WITHOUT TRUEPLAY EVERY ROOM SOUNDS DIFFERENT**
 
 Este sistema utiliza el micrófono de un dispositivo iOS como un iPod o iPad para ver como está el sonido de algun room, para acceder a esa opción hay que ingresar a la aplicación y luego ir donde dice **Room Settings**.
 
