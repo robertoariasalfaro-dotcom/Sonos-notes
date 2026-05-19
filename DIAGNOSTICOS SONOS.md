@@ -65,6 +65,65 @@ En el diagnostic viewer, nos da la info incluyendo el Gurú relacionado.
 - Local Music (Todos los music services como spotify, youtube music)
 - Office group
 
+## DIAGNOSTICS BASICS
+
+**Hosehold Summary:**
+
+- Diagnostic number
+- Diagnostic Type
+- Device ID
+- Router IP
+- DNS Server
+- Total Components
+- Total Controllers
+
+![alt text](image-1.png)
+
+En el component summary se pueden ver, los nombres, ips, coloer, serial number, group, wired, trueplay.
+
+**Uptime** es cuanto tiempo ha estado conectado seguido sin reiniciar
+
+**Reg** esto lo que hace es que el speaker tiene que estar registrado, en algunos casos, dice pending en lugar de secure, ya que no pudo llegar al cloud para completar el registro.
+
+**Notes** es muy importante leer eso, ya que puede decir algo como *no voice services enabled* por lo que no se conectaría a Alexa.
+
+**Root Bridge** ahí se ve si el root bridge que es el que tenga el MAC address mas bajo.
+
+### SNAPPY 
+
+Es como una guía de lo que se puede hacer, incluyendo pasos de troubleshooting, y los Gurus relacionado, da como una lista de pasos a seguir o chequear.
+
+**Voice Summary**
+
+Ahí aparece el device y si tiene activa la opción de music services.
+
+**Portables**
+
+Se puede ver el modelo, source, status of the battery, el battery capcity algo significa que la batería está casi nueva.
+
+#### CUANDO EL PRODUCTO ESTA FUERA DE GARANTIA (1 AñO), NO SE LE REEMPLAZA SE LE DA UN 30% DE DESCUENTO PARA QUE COMPRE UN PRODUCTO NUEVO.
+
+- Hay que chequear **multi SSID** y **audio settings.**
+- Fixed volume, es que se le puede poner como un límite al volumen a veces esto le da problema a los clientes
+- Volume scalling factor, esto es cuando hay un limite y se puede cambiar.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
