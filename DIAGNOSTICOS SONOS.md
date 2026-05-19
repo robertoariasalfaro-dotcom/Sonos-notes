@@ -13,7 +13,73 @@ El Household tiene un ID, se puede user, con eso, con el serial number, con el c
 - Casi siempre cuando es audio issues, hay que tomar el diagnostico cuando haya música, para ver los paquetes de datos que se estan perdiendo, en algun drop out.
 - Es recomendable hacer un diganostico antes y otro después, pero no es mandatory.
 - El diagnóstico se guarda por lo menos 3 meses, por lo que se pueden revisar los viejos.
-- 
+
+#### SE PUEDEN TENER VARIOS HOUSEHOLDS DENTRO DE UNA MISMA CUENTA, COMO POR EJEMPLO ALGUIEN QUE TENGA DOS O TRES CASAS.
+
+**Hay que estar seguro del household que se va trabajar, por que el sistema crea sonos networks.**
+
+- Existen BETA customers, **nunca se hace factory reset a un cliente beta** ellos van mas avanzados, los beta son testers, ellos tienen su propio canal.
+
+### NUNCA SE LA HACE UN FACTORY RESET A UN BETA.
+
+### HAY CUATRO TIPOS DE DIAGNOSTICS:
+
+- **Manual** (Viene desde el controller del sistema y tiene información del controller y del sistema).
+- **Auto** (Lo subimos nosotros desde Nirvana usando el *trigger diagnostic button* y tiene información del sistema).
+- **SNF** (System not found, only controller information, viene del controller y se hace cuando hay un not found, de hecho quiere decir system no found).
+- Existe un **Target diagnostic** el cual es específico de algún producto en específico, esto sale en la parte de abajo en la sección de los productos, este lo iniciamos nosotros y no tiene info del controller.
+
+### LOS TRES DIAGNOSTICOS TIENEN PRIORIDAD 1.
+
+Cuando alguien llama y dice que no encuentra algún device, es importantísimo sacar un diagnostico.
+
+El controller o el sistema estan en redes diferentes, con este SNF se puede ver si el controller y el speaker está en diferentes redes.
+
+#### LA MEJOR FORMA DE VER SI ES UN SNF ES POR QUE SOLO SALE INFO DEL CONTROLLER Y DICE NO PLAYERS.
+
+Cuando estamos haciendo un diagnostico se puede parar un toque la música.
+
+#### GO TO ASSIST ES OTRO TOOL QUE SE UTILIZA PARA LOS DIAGNOSTICS. De hecho es una app.
+
+El nirvana se puede abrir con el correo electrónico y desde ahí se busca el diagnóstico.
+
+En el diagnostic viewer, nos da la info incluyendo el Gurú relacionado. 
+
+- En la sección de Products, se puede ver el Serial number, el built ID.
+
+### We can reboot the device, pero hay que solicitar el permiso antes de hacerlo.
+
+- Después de eso sale una barra que se va llenando, algunas veces es necesario rebotear varios, por lo que no es necesario esperarse.
+
+### Sonos puede store 16 SSIDs diferentes
+
+### El diagnostic se divide en secciones
+
+- Household summary
+- Component summary
+- Wireless summary
+- Multi SSID
+- Audio Settings
+- Home theater audio status
+- Controller summary
+- Local Music (Todos los music services como spotify, youtube music)
+- Office group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
