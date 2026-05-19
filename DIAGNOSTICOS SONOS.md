@@ -165,6 +165,10 @@ https://support.sonos.com/en-us/article/incompatible-network-hardware
 
 En este link aparecen los routers or modems.
 
+### full name, preferred email for validation.
+
+
+
 
 
 
