@@ -94,3 +94,4 @@ En el diagnostic viewer, nos da la info incluyendo el Gurú relacionado.
 
 
 
+
