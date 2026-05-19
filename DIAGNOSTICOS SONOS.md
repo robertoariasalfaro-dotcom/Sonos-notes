@@ -147,6 +147,23 @@ Muchas veces hay que decirle al cliente que quite el device del switch al router
 
 ### SONOS NET ES UN MESH SYSTEM
 
+### WE DO NOT SUPPORT EXTENDERS
+
+En la parte de diagnóstico, se puede diferenciar, es importante ver el make and model del device para ver que tipo es en Google.
+
+## TOPOLOGY
+- Make and model of every hardware device.
+- Modem, router, access point, switch extenders.
+- How they are connected.
+
+## EXAMPLES
+- ZTE ZXHN F689 > TP link DEco E4R ))) Sonos.
+- AT&T BGW 320>Sonos
+
+
+https://support.sonos.com/en-us/article/incompatible-network-hardware
+
+
 
 
 
