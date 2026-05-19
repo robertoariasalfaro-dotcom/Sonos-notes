@@ -109,15 +109,31 @@ Se puede ver el modelo, source, status of the battery, el battery capcity algo s
 
 #### Controller Summary
 
-- *Associated to* es el primer device que se conecte a la app.
+- ***Associated to*** es el primer device que se conecte a la app.
 - Hay que ver en la parte de SSID se puede ver si esta conectado a una red regular o a los datos del celular.
-- En permissions debe de decir owner.
-- En el household ID se puede copiar y pegar en nirvana para ver los detalles de la red.
+- En **permissions** debe de decir **owner.**
+- En el **household ID** se puede copiar y pegar en nirvana para ver los detalles de la red.
 - **GC** eso es un group coordinator, el resto son members.
-- Puede ser GC (Group Coordinator) y GM (Group member) al lado del GC dice entre parentesis el número de devices conectados.
-- El sistema indica entre paréntesis si es (L) left o (R) right.
+- Puede ser GC **Group Coordinator** y GM (Group member) al lado del GC dice entre parentesis el número de devices conectados.
+- El sistema indica entre paréntesis si es **(L) left** o **(R) right.**
 
 ![alt text](image-2.png)
+
+### MODEM Vs ROUTER
+
+#### MODEM
+- Convert internet date into a format the router & netwokr computers can transmit & receive.
+- Connects your home network to your ISP.
+- Holds a public IP address
+- Does not create Wi-Fi.
+- Modems bridge you to the internet.
+
+#### ROUTER
+
+- Separate external (WAN) and internal (LAN) networks and servers as a gateway for the local network.
+- 
+
+
 
 
 
