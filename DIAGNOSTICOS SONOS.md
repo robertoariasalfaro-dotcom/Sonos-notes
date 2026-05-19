@@ -131,7 +131,25 @@ Se puede ver el modelo, source, status of the battery, el battery capcity algo s
 #### ROUTER
 
 - Separate external (WAN) and internal (LAN) networks and servers as a gateway for the local network.
-- 
+
+
+#### WAN=MODEM
+
+De 16 para arriba el switch es un managed.
+
+El desktop y el managed, se diferencia ya que el que tiene mas puertos es mas caro.
+
+desktop=unmanaged
+
+Muchas veces hay que decirle al cliente que quite el device del switch al router o modem.
+
+### Data source, data path and player.
+
+### SONOS NET ES UN MESH SYSTEM
+
+
+
+
 
 
 
