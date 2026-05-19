@@ -163,6 +163,10 @@ En la parte de diagnóstico, se puede diferenciar, es importante ver el make and
 
 https://support.sonos.com/en-us/article/incompatible-network-hardware
 
+En este link aparecen los routers or modems.
+
+
+
 
 
 
