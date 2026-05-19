@@ -106,7 +106,21 @@ Se puede ver el modelo, source, status of the battery, el battery capcity algo s
 - Hay que chequear **multi SSID** y **audio settings.**
 - Fixed volume, es que se le puede poner como un límite al volumen a veces esto le da problema a los clientes
 - Volume scalling factor, esto es cuando hay un limite y se puede cambiar.
-- 
+
+#### Controller Summary
+
+- *Associated to* es el primer device que se conecte a la app.
+- Hay que ver en la parte de SSID se puede ver si esta conectado a una red regular o a los datos del celular.
+- En permissions debe de decir owner.
+- En el household ID se puede copiar y pegar en nirvana para ver los detalles de la red.
+- **GC** eso es un group coordinator, el resto son members.
+- Puede ser GC (Group Coordinator) y GM (Group member) al lado del GC dice entre parentesis el número de devices conectados.
+- El sistema indica entre paréntesis si es (L) left o (R) right.
+
+![alt text](image-2.png)
+
+
+
 
 
 
