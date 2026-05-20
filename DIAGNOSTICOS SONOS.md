@@ -169,6 +169,26 @@ En este link aparecen los routers or modems.
 
 ### MIERCOLES 20 MAYO
 
+Para cambiar el canal en el router on el sonos net. Hay que ver en el Wi-Fi scan para ver cuales son los canales que tienen mas uso, normalmente se usa el **1, 6 y 11**, que son non-overlaping channels.
+
+### *Yes, the TOSLINK cable and the optical cable are exactly the same thing.*
+
+##### SPEECH ENHANCEMENT SE USA PARA QUE EL SISTEMA LE PONGA IMPORTANCIA A LAS VOCES.
+
+##### LOUDNESS ES QUE QUITA CONO LA INTERFERENCIA Y SUENA MAS CLARO.
+
+##### EL CEC TIENE QUE ESTAR ENABLED EN EL TELE SI NO DA PROBLEMAS
+
+### ARC AUTIO RETURN CHANNEL
+### CEC ES PARA EL CONTROL
+
+
+
+
+
+
+
+
 
 
 
