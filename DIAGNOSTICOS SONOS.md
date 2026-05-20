@@ -374,6 +374,8 @@ Las alarmas solo se cambian en el lugar donde se seteó, por ejemplo si se creó
 
 ![alt text](image-21.png)
 
+![alt text](image-22.png)
+
 
 
 
