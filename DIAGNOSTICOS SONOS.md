@@ -204,6 +204,42 @@ Se puede ver el -85, -88 y asi, eso quiere decir, esos son jumps de 6 por ejempl
 
 **El noise floor** solo se mide en los devices que tengan tres antenas, esto es para confirmar interferencia, esto es para ver si hay jumps de mas de 5. De hecho cada chain es una de las antenas.
 
+**ARP TABLE** es un escaneo de los devices que estan en la red, ahi se puede ver si hay otro router, un extender o cualquier otro device que esté en el local network si hay un device missing saldría. 
+
+Un **ARP (Address Resolution Protocol o Protocolo de Resolución de Direcciones)** es el **protocolo** de red encargado de **vincular** una **dirección IP (lógica)** con una dirección **MAC (física o de hardware)** única de un dispositivo. Es el traductor esencial que permite que los datos lleguen al equipo correcto dentro de una red local (como el Wi-Fi de tu casa).
+
+![alt text](image-4.png)
+
+### WI-FI TX STATS
+
+- Es la ruta que toma el device para llegar a por ejemplo sala bar.
+
+![alt text](image-5.png)
+
+- Aquí se ven los paquetes enviados, si no estan playing, los paquetes que se envían son menos.
+
+Cuando el porcentaje de pérdida de paquetes es mas de 25% es un problema.
+![alt text](image-8.png)
+
+**Lo mas importante es ver el porcentaje de paquetes perdidos o *PER*, debe de ser menor a 25%.
+
+### **MiB CC Summary**
+
+Ahi se ve la interferencia de los productos nuevos.
+
+![alt text](image-9.png)
+
+Es para ver si hay interferencia wireless o wire.
+
+
+
+
+
+
+
+
+
+
 
 
 
