@@ -288,7 +288,77 @@ Ahi se puede ver el software related.
 - **AP TX RTX** (Ahi se revisan dos links), se puede ver si la interferencia es mas de 25%, Multicast tiene que ser 100.  
 - **ANACAPA** es more sofware related.
 
-******* muchos asteriscos es que el device se reboteó.
+Muchos asteriscos es que el device se rebuteó.
+
+### Los voice assistants are 
+
+- Alexa
+- Google Assistant
+- Siri
+- Sonos voice
+
+### VOICE ASSISTANTS
+
+Para los productos que tiene Eco dot (Device de Alexa) o google device se pueden integrar en el voice assistant.
+
+It needs to be registered under the services, the sonos speakers need to be registered in the voice service accounts.
+
+It needs to be set in the same network account, por si tuviera dos households, por que si no puede pasar que le diga Alexa play something y lo haga en el segundo household.
+
+En el cloud de Sonos solo ve un montón de devices y no va a saber a cual le estamos dando el comando.
+
+Si tengo 5 locations ocupo 5 cuentas.
+
+Una cuenta de Amazon por household.
+
+El Wake word de Sonos es **"Hey Sonos"**.
+
+**Sonos Voice Control** Es el asistente de Sonos, es un **SVC** 
+
+Command processing is done internally on the Sonos device.
+
+Sonos voice control is able to work alongside Amazon Alexa.
+
+SVC will not be able to work alongside Google Assistant on the same Sonos player.
+
+### SPEAKER REGISTRATION
+
+![alt text](image-17.png)
+
+Depende mucho de donde sale la orden, Alexa y Google no se relacionan.
+
+- Kitchen puede recibier comandos de Alexa.
+
+- Living room recive voice comands desde Living room.
+
+- El Dining Room si podria tocar de los otros por que no tiene algo registrado.
+
+![alt text](image-18.png)
+
+The Sonos voice will take the name from the Sonos app.
+
+Si les cambia el nombre el sistema de Sonos no sabe para donde agarrar.
+
+![alt text](image-19.png)
+
+Room names conflicts, los nombres deben de ser diferentes, por que sino Alexa no hace nada.
+
+### NUCLEAR METHOD
+
+Es especificamente para Alexa, es el siguiente Gurú:
+
+https://support.sonos.com/en-us/article/alexa-commands-not-working-on-sonos
+
+
+
+
+
+
+
+
+
+
+
 
 
 
