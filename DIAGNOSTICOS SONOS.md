@@ -167,7 +167,7 @@ En este link aparecen los routers or modems.
 
 ### full name, preferred email for validation.
 
-### MIERCOLES 20 MAYO
+# MIERCOLES 20 MAYO
 
 Para cambiar el canal en el router on el sonos net. Hay que ver en el Wi-Fi scan para ver cuales son los canales que tienen mas uso, normalmente se usa el **1, 6 y 11**, que son non-overlaping channels.
 
@@ -245,8 +245,8 @@ Sirve mucho para dispositivos nuevos.
 
 ![alt text](image-11.png)
 
-- OAF (Failure)
-- OAT (Transmitted)
+- **OAF** (Failure)
+- **OAT** (Transmitted)
 
 Aqui se ve la interferencia, es especial para el sonos play.
 
@@ -269,6 +269,34 @@ La **M** es de **multicast** en ese ultima sección, en este caso tiene que esta
 Tiene que tener el multicast activo, si no, no funciona Sonos, algunas veces se tiene que activar.
 
 ![alt text](image-15.png)
+
+### **ANACAPA**
+
+![alt text](image-16.png)
+
+Ahi se puede ver el software related.
+
+### Esto se revisa en este orden, en el diagnosis
+
+- **PHYER** (Se revisan las dos ultimas dos columanas)
+- **Noise Floor**
+- **ARP**
+- **WiFi TX Stats**
+- **MiBCC**
+- **AHT Station**
+- **PER TXQ** (revisar números rojos).
+- **AP TX RTX** (Ahi se revisan dos links), se puede ver si la interferencia es mas de 25%, Multicast tiene que ser 100.  
+- **ANACAPA** es more sofware related.
+
+******* muchos asteriscos es que el device se reboteó.
+
+
+
+
+
+
+
+
 
 
 
