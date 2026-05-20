@@ -410,7 +410,6 @@ Las alarmas solo se cambian en el lugar donde se seteó, por ejemplo si se creó
 - Do you have a light on this device, may I know the color of this light and if it is blinking?
 - When you connect your mobile to the wi-fi how many wi-fi networks do you have available?
 - Do you connect your phone to more than one wi-fi networks?
-- 
 
 
 
