@@ -349,6 +349,35 @@ Es especificamente para Alexa, es el siguiente Gurú:
 
 https://support.sonos.com/en-us/article/alexa-commands-not-working-on-sonos
 
+El default music service se setea desde Alexa.
+
+Alexa debe de estar seteado o linkeado en la app de Alexa y la de Sonos, en ambas.
+
+Any music service can be set as a default music serviceor specific by name.
+
+- Is Spotify is the default music service saying "Play Lumineers will automatically play Lumineers on Spotify".
+
+- Non default music service "Alexa play (music) on Apple Music".
+
+We cannot
+
+- Set Sonos alarms/sleep timer.
+- For Sonos groups.
+- Add songs to a play list.
+- Play a playlist.
+
+Hey Sonos y automaticamente baja el volumen, eso se llama ducking, baja un toque el volumen para escuchar el comando.
+
+![alt text](image-20.png)
+
+Las alarmas solo se cambian en el lugar donde se seteó, por ejemplo si se creó en el voice assistant se puede cambiar o cancelar en el voice assistant y si se hizo en la app solo se puede cambiar en la app.
+
+![alt text](image-21.png)
+
+
+
+
+
 
 
 
