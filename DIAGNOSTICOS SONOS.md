@@ -377,9 +377,40 @@ Las alarmas solo se cambian en el lugar donde se seteó, por ejemplo si se creó
 ![alt text](image-22.png)
 
 
+# NOTES
+
+- **Issue description:** Missing device
+- **Name:** Adrian Algo
+- **Phone:** 86300362 
+- **System:Existing/New:** 
+- **App / Controller:** Android
+- **Sonos product and room name:** Sonos Port
+- **Troubleshooting:** (Include relevant topology, Guru, and diag w/explanation in steps)
+- *
+- *
+- **If resolved**
+- **Summarize the resolution:** Sonos Desktop app installed and web version Enabled
+- **Final Diag:** Issue Resolved
+
+- **If not resolved**
+- **Recommended next steps and Guru cards:**
+- **Actions or tests the customer will do:**
 
 
+***VALIDATION***
+- Name
+- Preferred email
 
+## POSIBLES PREGUNTAS AL INICIO:
+
+- Is this a new device or do you used to have it on your network?
+- Are you using a mobile or a tablet to control de devices?
+- Do you have more than one network on your house?
+- How many devices do you have?
+- Do you have a light on this device, may I know the color of this light and if it is blinking?
+- When you connect your mobile to the wi-fi how many wi-fi networks do you have available?
+- Do you connect your phone to more than one wi-fi networks?
+- 
 
 
 
