@@ -186,6 +186,36 @@ Para cambiar el canal en el router on el sonos net. Hay que ver en el Wi-Fi scan
 
 ### PARA SABER CUAL ES EL PUERTO HDMI QUE FUNCIONA COMO ARC ES CON EL MAKE AND MODEL DEL TELE, HAY QUE GOOGLEARLO Y BUSCAR LA INFO.
 
+El HT topology es hacer algo como:
+
+**HT Topology**
+
+### HOME THEATHER
+
+### INTEFERENCE MARKERS
+
+- Existe una lista de detail component, hay una línea negra que separa los components.
+- **PHYER** Se ve la red, por ejemplo 2.4, se revisa si en las dos últimas columnas aparece algún número que no sea cero (0) eso quiere decir que hay interferencia física, que hay algun muro, o algo de metal que haga interferencia, ahí hay que preguntale al cliente.
+- **NOISE FLOOR** En esta sección hay tres columnas, la primera se ignora y se toman las columnas 1, 2 y 3.
+
+![alt text](image-3.png)
+
+Se puede ver el -85, -88 y asi, eso quiere decir, esos son jumps de 6 por ejemplo, de 84 a 90, cualquier jump de mas de 5 quiere decir que hay interferencia, esto se mide dentro de la misma columna, en alguna de los chains.
+
+**El noise floor** solo se mide en los devices que tengan tres antenas, esto es para confirmar interferencia, esto es para ver si hay jumps de mas de 5. De hecho cada chain es una de las antenas.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
