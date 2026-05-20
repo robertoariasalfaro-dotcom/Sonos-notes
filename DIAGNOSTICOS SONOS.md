@@ -231,6 +231,51 @@ Ahi se ve la interferencia de los productos nuevos.
 
 Es para ver si hay interferencia wireless o wire.
 
+#### **PER Tx Queues**
+
+Se puede ver tambien la interferencia
+
+![alt text](image-10.png)
+
+En este grafico se pueden ver los packs perdidos.
+
+### **ATH Station** 
+
+Sirve mucho para dispositivos nuevos.
+
+![alt text](image-11.png)
+
+- OAF (Failure)
+- OAT (Transmitted)
+
+Aqui se ve la interferencia, es especial para el sonos play.
+
+### **AP TX RX** 
+
+Hay dos logs mas, el primero es player **TX statistics to AP**, y el otro es **Player RX statistics to AP**, uno es donde se envia desde el palyer al AP y el otro es a la inversa.
+
+Tiene que estar por debajo de 25, esta es la imagen de 
+
+![alt text](image-12.png)
+
+El **beacon** es un pequeño paquete de datos enviado periódicamente por un punto de acceso (Access Point) para anunciar su presencia, o un pequeño emisor Bluetooth usado para geolocalización. En ciberseguridad, el término beaconing describe las señales de actividad emitidas por dispositivos infectados.
+
+Los beacons tiene que estar entre 500 y 600.
+
+![alt text](image-14.png)
+
+La **M** es de **multicast** en ese ultima sección, en este caso tiene que estar por arriba de 100.
+
+Tiene que tener el multicast activo, si no, no funciona Sonos, algunas veces se tiene que activar.
+
+![alt text](image-15.png)
+
+
+
+
+
+
+
 
 
 
