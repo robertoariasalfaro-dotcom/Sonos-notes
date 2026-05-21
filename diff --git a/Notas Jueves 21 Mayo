@@ -105,13 +105,13 @@ NA
 - **Summarize the resolution:** XXXXXXXXXXXXXXXXX
 - **Final Diagnostic:** XXXXXXXXXXXXXXXXX
 
-## SECURITY FEATURES NEEDED FOR SONOS
+# SECURITY FEATURES NEEDED FOR SONOS
 
 - **Smart connect** - OFF
 - **Public IP's** - NOT SUPPORTED
-- **10.0.0.0** - Public IP Range
-- **172.16.0.0** - Private IP Range
-- **192.168.0.0**
+- **10.0.0.0** - 
+- **172.16.0.0** - Public IP Range
+- **192.168.0.0** - Private IP Range
 - **Enterprise** - OFF
 - **Hidden SSID** - OFF
 - **UPnP** - ON
@@ -124,6 +124,56 @@ NA
 - **QoS** - OFF
 - **Bridge Mode** - ON
 - **MAC Filtering** - OFF
+
+# TROUBLESHOOTING
+
+### Data Source
+### Data Path
+### Player
+
+- If we are having issues with Spotify, I would **keep the data source**, and data player and will **change the Data source** or player.
+
+- **Sonos Radio** is el default source player.
+
+- Si esto no sirve se revisa la segunda variable el **data path**, si estoy en wireless, puedo intentar wire, si estoy cableado a un switch, se quita y se pega directo al router.
+
+- Pero si **no** es el **source** o el **path**, es muy difícil que el problema sea el player.
+
+### En los diagnosticos solo hay tres tipos, manual, auto y SNF.
+
+- El que hacemos nosotros es el **auto**, se le da a la opcion que dice trigger diagnosis.
+
+- El **manual**, es el que hace el cliente y es normalmente de los controllers.
+
+- El **SNF** es cuando hay un missing device.
+
+**Airport Extreme 802.11ac** 
+
+- Apple router in the office.
+- TP Link router living room.
+- Everything is wired
+- 07149736 case number
+- iPad (office) shows the system
+- No longer have access to the system on the cx's phone.
+- Different IP addresses
+- Yellow port in the XXXX, next to it, is it blue.
+- Connected as well to the blue.
+- Ask for permission for diagnostics.
+- Cx asked for a diagnosis from the ipad the one that shows the devices.
+- 2045846924
+- Controllers iPad and iPod
+- Setting icon and connect to the second household
+- Cx unplugged the second router and fixed the issue, all the deviced and the controller are in the same network or household.
+- iPad is not connected
+- 1219546876
+- 
+
+
+
+
+
+
+
 
 
 
