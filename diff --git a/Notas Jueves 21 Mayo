@@ -155,7 +155,7 @@ NA
 - 07149736 case number
 - iPad (office) shows the system
 - No longer have access to the system on the cx's phone.
-- Different IP addresses
+- Different IP addresses.
 - Yellow port in the XXXX, next to it, is it blue.
 - Connected as well to the blue.
 - Ask for permission for diagnostics.
@@ -166,7 +166,18 @@ NA
 - Cx unplugged the second router and fixed the issue, all the deviced and the controller are in the same network or household.
 - iPad is not connected
 - 1219546876
-- 
+- Two solutions, bridge mode, rename the SSIDs.
+- Remote session initiated
+- Permisson given by cx.
+- Asked to plug the modem back and start the troubleshooting.
+
+### LOS APPLE ROUTERS SOLO SE PUEDEN ACCESAR DEDE UN DSIPOSITIVO iOS.
+
+#### SE CONECTA DE LA SIGUIENTE MANERA, EL MAIN ROUTER ES EL QUE RECIBE LA INFO DEL INTERNET DE LA CALLE HASTA SU WAN PORT, DESPUES SE CONECTA DESDE UN LAN AL WAN DEL SEGUNDO ROUTER, PERO SE LE TIENE QUE DESHABILITAR EL DHCP Y CAMBIARLO A BRIDGE MODE.
+
+
+
+
 
 
 
