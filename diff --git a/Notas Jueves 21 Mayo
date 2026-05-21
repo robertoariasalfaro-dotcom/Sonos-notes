@@ -105,6 +105,25 @@ NA
 - **Summarize the resolution:** XXXXXXXXXXXXXXXXX
 - **Final Diagnostic:** XXXXXXXXXXXXXXXXX
 
+## SECURITY FEATURES NEEDED FOR SONOS
+
+- **Smart connect** - OFF
+- **Public IP's** - NOT SUPPORTED
+- **10.0.0.0** - Public IP Range
+- **172.16.0.0** - Private IP Range
+- **192.168.0.0**
+- **Enterprise** - OFF
+- **Hidden SSID** - OFF
+- **UPnP** - ON
+- **Airtime** frames
+- **Guest Net**- OFF
+- **IGMP Proxy** - OFF
+- **VPN** - OFF
+- **IGMP Snooping** - ON
+- **Beamforming** - OFF
+- **QoS** - OFF
+- **Bridge Mode** - ON
+- **MAC Filtering** - OFF
 
 
 
