@@ -15,4 +15,68 @@
 - Serial number 
 - How many devices
 - How many networks
-- 
+- Any troubleshooting or factory reset performed previously
+
+
+https://drive.google.com/drive/folders/1Kgvq8JYHD1URDkkABqsMnrNKKgtipLIu?usp=sharing
+
+
+## NOTES
+
+- **Issue description:** Missing device
+- **Name:** Adrian Chacon
+- **Phone:** 9999999999
+- **System:Existing/New:** Existing
+- **App / Controller:** Sonos App iCR
+- **Sonos product and room name:**
+- **Troubleshooting:** (Include relevant topo, Guru, and diag w/explanation in steps)
+- * Topo: NA
+- * Submit Diagnostic
+- * (Aquí se pega el link del diatgnostic del device correcto).
+- * One port is showing the second port it is not.
+- * Asked for light on the missing port: Solid White.
+- * Submit Diagnostic.
+- * Ask for the serial number of the missing port.
+- * (Aquí se pega el link del diatgnostic).
+- * Factory reset performed for missing port.
+- * Confirmed with the customer that the device was up and running.
+- * Adding the Sonos port to the system.
+- * Call done (Siempre se cierra con Call Done).
+
+- **If resolved**
+- **Summarize the resolution:** Port added to the correct system.
+- **Final Diagnostic:** NA (Cuando no se hace un diag se pone NA) (Aqui se agrega un link del Auto Diagnostic, desde el trigger diagnostic button). Si se hace auto no se pide permiso.
+
+- **If not resolved**
+- **Recommended next steps and Guru cards:**
+- **Actions or tests the customer will do:**
+
+## Esto es lo que puso la trainer en las notas, estoy copying and pasting.
+
+- Issue Description: Player Missing from App (Port) 
+
+- System: Existing
+- App / Controller:  Sonos App / ACR 
+- Sonos product and room name: Sonos Port  / Den
+
+- Troubleshooting (Include relevant topo, Guru, and diag w/explanation in steps) :
+- Topo:  NA
+- Agent asked LED light > Solid white
+- Submit diag 
+- https://app.getguru.com/card/Tbbed5Ec/Submit-a-diagnostic
+Diag https://nirvana.sonos.com/nextjs/diagnostics/7f267daa-1006-4bad-9904-2dd8e19af485
+- 1 Sonos port is showing / 1 is missing 
+- Asked for SN of the missing Port 48A6B828006A7 
+- FR the Sonos Port
+- https://app.getguru.com/card/c9ayRp7i/Factory-reset-a-Sonos-product
+- Adding the Sonos Port to the system > Port Added. 
+- CX confirmed that the device is connected
+- Call Done > EOC 
+
+- If resolved
+- Summarize the resolution: Port added to the correct system. 
+- Final Diag: NA
+
+
+
+
