@@ -175,6 +175,39 @@ Which Sub is the one you have, the small one?
 Description es lo mismo del subject
 
 
+# NOTES
+
+- **Issue description:** Cx wants to use the bar for a movie, but the sound is coming out of the TV not from the ARC.
+- **Name:** Marc MusicLover (Sonoslabcrh@gmail.com) 
+- **Phone:** 855-000-9999  
+- **System:Existing/New:** Existing 
+- **App / Controller:** S1
+- **Sonos product and room name:** Sonos Arc
+- **Troubleshooting:** 
+- * Validation completed
+- * Confirmed that the cx was using a cable, the Sonos ARC was connected to the ARC port.
+- * TV make and model, is a Sony KD-49X-706E
+- * Searched the ports and confirmed that the Sony has an ARC in port HDMI three.
+- * The customer was asked about the port and he confirmed that he had the cable connected to the correct port. 
+- * The cx was asked to run a diagnostic on his end.
+- * The diag number was 727046648
+- * The cx was asked to check if the ports were connected correctly.
+- * The caller confirmed that the HDMI cable was plugged to the ARC port on the TV.
+- * Cx was asked to run a diagnostic on his end. Diag number: 1815130421
+- * Cx confirmed that the issue was resolved.  
+
+- **If resolved**
+- **Summarize the resolution:** The cx was finally able to bond the Sub Mini and the ERA 300. The Sub was unable and not avaible for grouping.
+
+- **Final Diag:** NA
+
+- **If not resolved**
+- **Recommended next steps and Guru cards:**
+- **Actions or tests the customer will do:**
+
+Watching the RIP, tryibng to watch it uwint sound bar Arc, the sound is coming out from your TV.
+
+
 
 
 
