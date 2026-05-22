@@ -185,7 +185,7 @@ Description es lo mismo del subject
 - **Sonos product and room name:** Sonos Arc
 - **Troubleshooting:** 
 - * Validation completed
-- * Confirmed that the cx was using a cable, the Sonos ARC was connected to the ARC port.
+- * Confirmed that the cx was using an HDMI cable, the Cx mentioned that the Sonos ARC was connected to the ARC port on the TV.
 - * TV make and model, is a Sony KD-49X-706E
 - * Searched the ports and confirmed that the Sony has an ARC in port HDMI three.
 - * The customer was asked about the port and he confirmed that he had the cable connected to the correct port. 
@@ -197,15 +197,41 @@ Description es lo mismo del subject
 - * Cx confirmed that the issue was resolved.  
 
 - **If resolved**
-- **Summarize the resolution:** The cx was finally able to bond the Sub Mini and the ERA 300. The Sub was unable and not avaible for grouping.
+- **Summarize the resolution:** The Cx was able to change the port to the correct one, the HDMI cable was connected to the incorrect port, the cable was changed to the ARC HDMI y se arregló.
 
-- **Final Diag:** NA
+- **Final Diag:** 727046648
 
 - **If not resolved**
 - **Recommended next steps and Guru cards:**
 - **Actions or tests the customer will do:**
 
-Watching the RIP, tryibng to watch it uwint sound bar Arc, the sound is coming out from your TV.
+![alt text](image-7.png)
+
+No sound coming from Sonos Arc
+
+El subject se copia y se pega en el issue description.
+
+![alt text](image-8.png)
+
+**Es importante poner el finding the diagnostico, como se ve en la siguiente imagen:**
+
+![alt text](image-9.png)
+
+**Se le debe de dar remove a la parte del contact detail:**
+
+![alt text](image-10.png)
+
+- Case classification es audio issues.
+
+![alt text](image-11.png)
+
+
+
+
+
+
+
+
 
 
 
