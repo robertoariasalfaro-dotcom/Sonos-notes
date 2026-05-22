@@ -173,7 +173,40 @@ NA
 
 ### LOS APPLE ROUTERS SOLO SE PUEDEN ACCESAR DEDE UN DSIPOSITIVO iOS.
 
-#### SE CONECTA DE LA SIGUIENTE MANERA, EL MAIN ROUTER ES EL QUE RECIBE LA INFO DEL INTERNET DE LA CALLE HASTA SU WAN PORT, DESPUES SE CONECTA DESDE UN LAN AL WAN DEL SEGUNDO ROUTER, PERO SE LE TIENE QUE DESHABILITAR EL DHCP Y CAMBIARLO A BRIDGE MODE.
+#### SE CONECTA DE LA SIGUIENTE MANERA, EL ***MAIN ROUTER*** ES EL QUE RECIBE LA INFO DEL INTERNET DE LA CALLE HASTA SU WAN PORT, DESPUES SE CONECTA DESDE UN LAN AL WAN DEL SEGUNDO ROUTER, PERO SE LE TIENE QUE DESHABILITAR EL DHCP Y CAMBIARLO A BRIDGE MODE.
+
+
+## VALIDATION
+
+- Name
+- Phone number
+- Email
+
+# Call Flow
+
+- Se hace el opening
+- El cliente le dice el issue
+- Salesforce presenta el nombre y la info, incluso el caso.
+- Se revisa el caso a ver si llama por lo mismo, el caso tiene que estar closed y uno lo reabre si es del mismo
+- Si es menos de dos meses se trabaja en el mismo
+- Se cambia la info por la de la persona que está llamando.
+- Se deja en las notas si llama otra persona besides the owner of the system.
+- Si llama la esposa se verifica con el nombre y el preferred email address.
+- Ahora se pregunta el phone number y se compara en SalesForce
+- El correo se pega en Nirvana, y a partir de ahi se puede hablar de la info del cliente, información específica.
+- ### TIENE QUE SER CON TRES, NAME, EMAIL, PHONE NUMBER.
+- Cuando llama la esposa, no se le puede dar info de la cliente.
+- En Salesforce se crea un contacto nuevo.
+- Se le pregunta el email.
+- How many devices, can you provide me with the info, do you have a serial number or the diagnosis info.
+- Incluso se le puede decir que vaya a la app y que me diga el correo que sale ahí.
+- El manual diagnostic lo hace el y no ocupamos permiso.
+- ### SIEMPRE SE PUEDE MANDAR UN DIAGNOSTICO
+- La diferencia entre un manual y un auto, es que el manual no hace el cliente y el auto diag lo hacemos nosotros.
+- El auto solo trae info del sistema no del controller.
+- El manual lo hace el cliente trae info del controller.
+- Cuando dice el correo mal uno le puede decir que está erroneo, pero no se le puede decir que es lo malo, solo el domain.
+- 
 
 
 
