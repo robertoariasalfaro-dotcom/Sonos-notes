@@ -127,14 +127,14 @@ Notes
 
 # NOTES
 
-- **Issue description:** 
+- **Issue description:** Setup Sub Mini to Speaker 
 - **Name:** Marc MusicLover (Sonoslabcrh@gmail.com)
 - **Phone:** 8005551111  
 - **System:Existing/New:** New speaker
 - **App / Controller:** S1 
-- **Sonos product and room name:** Sonos Sub Mini, Sonos Move (2nd Gen).
+- **Sonos product and room name:** Sonos Sub Mini, Sonos Move (2nd Gen), ERA 300.
 - **Troubleshooting:** 
-- * Validation passed
+- * Validation completed.
 - * Asked for topology One sub mini and another speaker a Sonos Move.
 - * Confirmed that the sub 4 is the mini
 - * Asked about the app, new app 
@@ -171,6 +171,10 @@ Validation: Agent asked for name, phone and email.
 Which Sub is the one you have, the small one?
 
 ## EL SUB Y LOS PORTABLES NO SE PUEDEN GROUPING
+
+Description es lo mismo del subject
+
+
 
 
 
