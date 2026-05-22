@@ -1,2 +1,79 @@
 TROUBLESHOOTING
 
+### VARIABLES
+
+- Data Source
+- Data Path
+- Player
+
+### Data Source
+Es la música que viene del alguna fuente, es de donde viene la data, el source puede ser el controller, music service, music library, line-in, voice services, the TV. Where the music or data is coming from
+
+### Data Path
+- El camino que toma esta data para llegar del punto A al punto B, esto puede ser, cables, HDMI cable, network, access point, basicamente el path es el network.
+
+### Player
+- Básicamente es el Sonos Device
+
+#### Questions about variables
+
+- Where is the data coming from? **Data Source**
+- Where is it supossed to ge to? **Player**
+- How is getting there? **Data Path**
+
+### Examples about Data Source and Data Path
+
+- ### **Data Source**
+- Controller
+- Music Service
+- Line-In source
+- Phone (Airplay or Casting)
+- Music Library
+- ### **Data Path**
+- Router/Gateway
+- Player to player Communication
+- Ethernet Cable
+- Topology
+- Internet
+- Player to player communication direct routing/grouping.
+
+![alt text](image.png)
+
+En el diagnostic se vio el direct routing, es la ruta que utiliza el device para sonar.
+
+If you suspect a player, isolate the player before you consider it as a variable.
+
+**Grouping** es cuando se unen varios rooms, se puede play the same song in all of them.
+
+Es agrupar rooms
+
+The question is:
+
+### What is the music service are you using?
+
+### Have you tried with another source, like Sonos Radio? (Ahi cambiamos la variable)
+
+### This way we isolated one variable.
+
+### Ahora se debe de mover al path.
+
+### SE pregunta si tiene problemas con todos los rooms o solo con uno?
+
+### Ungroup the rooms and test playing some music from Spotify? Si el cliente dice que no, entonces se pasa a la otra variable.
+
+Habría que ver el path, o sea se puede hacer un speed test, por que cada device usa alrededor de 7 megas para funcionar.
+
+### GC
+
+- El group coordinator es el que controla, todo, hay que preguntar que tan largo está.
+
+- Para cambiar el group coordinator se hace en el Sonos app, es el primero que se seleccionó al hacer el grouping.
+
+- Se puede reagrupar utilizando el device que uno quiere como coordinator al agruparlo de primero.
+
+![alt text](image-1.png)
+
+
+
+
+
