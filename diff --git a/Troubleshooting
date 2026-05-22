@@ -125,6 +125,58 @@ El wired device needs to be the **group coordinator**.
 
 Notes
 
+# NOTES
+
+- **Issue description:** 
+- **Name:** Marc MusicLover (Sonoslabcrh@gmail.com)
+- **Phone:** 8005551111  
+- **System:Existing/New:** New speaker
+- **App / Controller:** S1 
+- **Sonos product and room name:** Sonos Sub Mini, Sonos Move (2nd Gen).
+- **Troubleshooting:** 
+- * Validation passed
+- * Asked for topology One sub mini and another speaker a Sonos Move.
+- * Confirmed that the sub 4 is the mini
+- * Asked about the app, new app 
+- * Agent asked to go to settings, add speaker or components.
+- * Cx went to the S1 App
+- * Asked to see if the device was availble for adding it.
+- * The Sub 4 mini showed up was added, cx was able to see it
+- * Cx is trying to pair the devices.
+- * According to Google AI: **"The Sonos Sub 4 and Move 2 cannot be directly "bonded" as a single audio system".**
+- * Agent confirmed that the devices that he wants to bond are not avaible for bonding.
+- * Sonos Sub Mini, Sonos Move (2nd Gen) cannot be bonded.   
+- * The agnet informed him tha these devices cannot be bonded. 
+- * The cx mentioned that he had an ERA 300.
+- * The cx was asked to add the sub to the era 300.
+- * The ERA 300 was flashing green, the agent mentioned the light meaning.
+- * Finally they were able to bonded.
+- * Cx was asked to test it playing some music. 
+
+- **If resolved**
+- **Summarize the resolution:** The cx was finally able to bond the Sub Mini and the ERA 300. The Sub was unable and not avaible for grouping.
+
+- **Final Diag:** NA
+
+- **If not resolved**
+- **Recommended next steps and Guru cards:**
+- **Actions or tests the customer will do:**
+
+### Issue descirption:
+
+Cs has a Sub and is Trying to set it up work with his speaker.
+
+Validation: Agent asked for name, phone and email.
+
+Which Sub is the one you have, the small one?
+
+## EL SUB Y LOS PORTABLES NO SE PUEDEN GROUPING
+
+
+
+
+
+
 
 
 
