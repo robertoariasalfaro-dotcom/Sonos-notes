@@ -36,6 +36,8 @@ Es la música que viene del alguna fuente, es de donde viene la data, el source 
 - Topology
 - Internet
 - Player to player communication direct routing/grouping.
+- ### **Data Player**
+- Sonos Devices
 
 ![alt text](image.png)
 
@@ -63,7 +65,7 @@ The question is:
 
 Habría que ver el path, o sea se puede hacer un speed test, por que cada device usa alrededor de 7 megas para funcionar.
 
-### GC
+### GC GROUP COORDINATOR
 
 - El group coordinator es el que controla, todo, hay que preguntar que tan largo está.
 
@@ -72,6 +74,63 @@ Habría que ver el path, o sea se puede hacer un speed test, por que cada device
 - Se puede reagrupar utilizando el device que uno quiere como coordinator al agruparlo de primero.
 
 ![alt text](image-1.png)
+
+Variables, case
+
+- A customer is experiencing audio dropouts on a group of players.
+- Only this group is experiencing audio drouputs, other non grouped players in the customer's sonos system are playing audio as expected.
+
+Hay que ver las distancias entre los devies, especialmente el **group coordinator**.
+
+APS TH RTX o algo asi, es para ver los devices y la intensidad de la señal.
+
+El wired device needs to be the **group coordinator**.
+
+- En el escenario anterior, las variables que se toman en cuenta son: el data path y el player. 
+
+![alt text](image-2.png)
+
+- Para este caso debe de revisar el data path, and the player.
+- La mas facil de descartar es el player, es muy obvio.
+- Se eliminan variables.
+- Se prueban individualmente, para ver cual variable está causando el issue.
+
+![alt text](image-3.png)
+
+### SCENARIO 1
+
+![alt text](image-4.png)
+
+- En este escenario parece que el source está dando problema.
+- Como podemos saber si es el source, hay que decirle que utilice otro music source como Sonos Radio, para ver si es el player.
+- El music service es solo uno de los music services, pueden ser el TV, line in, etc.
+
+### SCENARIO 2
+
+![alt text](image-5.png)
+
+- En este caso seria el player.
+- Para confirmar que es el player, hay que isolated, hay que intenter con otro device, ya que hay otro ERA.
+- The player (ERA300) is the one not working.
+- Hay que decirle que trate con el otro para descubrir que es el player o device (Que es lo mismo).
+
+### SCENARIO 3
+
+![alt text](image-6.png)
+
+- En este caso sería el **Data Path** ya que los music services.
+- Para poder testear el data path, I would try with a differente music source.
+- Para ver lo del Data Path, se revisa el Topology, el path y el topology van relacionadas.
+- La Topologia se solicita siempre o casi siempre, en la mayoría.
+
+
+
+
+
+
+ 
+
+
 
 
 
