@@ -121,7 +121,12 @@ El wired device needs to be the **group coordinator**.
 - En este caso sería el **Data Path** ya que los music services.
 - Para poder testear el data path, I would try with a differente music source.
 - Para ver lo del Data Path, se revisa el Topology, el path y el topology van relacionadas.
-- La Topologia se solicita siempre o casi siempre, en la mayoría.
+- La Topologia se solicita siempre o casi siempre, en la mayoría de los casos.
+
+Notes
+
+
+
 
 
 
