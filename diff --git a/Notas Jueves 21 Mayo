@@ -198,15 +198,36 @@ NA
 - Cuando llama la esposa, no se le puede dar info de la cliente.
 - En Salesforce se crea un contacto nuevo.
 - Se le pregunta el email.
-- How many devices, can you provide me with the info, do you have a serial number or the diagnosis info.
+- How many devices, can you provide me with the info, do you have a serial number or the diagnosis info, Sonos ID.
 - Incluso se le puede decir que vaya a la app y que me diga el correo que sale ahí.
-- El manual diagnostic lo hace el y no ocupamos permiso.
+- El manual diagnostic lo hace el cliente y no ocupamos permiso.
 - ### SIEMPRE SE PUEDE MANDAR UN DIAGNOSTICO
 - La diferencia entre un manual y un auto, es que el manual no hace el cliente y el auto diag lo hacemos nosotros.
 - El auto solo trae info del sistema no del controller.
 - El manual lo hace el cliente trae info del controller.
 - Cuando dice el correo mal uno le puede decir que está erroneo, pero no se le puede decir que es lo malo, solo el domain.
-- 
+
+- ### MANUAL = Customer tiene info del controlador
+- ### AUTO = Lo hacemos nosotros tiene info del sistema.
+- ### SNF - Es un auto especificamente de un dispositivo.
+
+## CREATE CASE
+- Full name
+- Preferred email address
+- Preferred phone number
+
+## GDPR
+- Name of the system
+- Email
+- Phone number
+- Diagnostic  number
+- S/N
+- Sonos ID
+- Zip Code
+
+
+
+
 
 
 
