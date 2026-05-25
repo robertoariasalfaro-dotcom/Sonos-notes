@@ -1,4 +1,14 @@
 
-SALEFORCE CASE classification
+### SALEFORCE CASE classification
+
+Hay que buscar case classification en Guru
+
+- En la parte de **status** debe de darle **working**.
+- En **sub-status** se utiliza **in progress**.
+- Case origin **Phone**.
+- Contact: **correct email**.
+- Case Classification: **subject and description.
+
+![alt text](image-39.png)
 
 
