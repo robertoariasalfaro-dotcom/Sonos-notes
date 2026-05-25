@@ -28,4 +28,8 @@ El proceso es el mismo en wi-fi y wired:
 
 ### Reasons for Failures
 
-
+- Sonos ZP (Sonos player)
+- We need to ask the topology.
+- Los managed tienen mas de 16 ports y no tenemos la posibilidad de manipularle los settings.
+- 
+- 
