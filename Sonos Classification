@@ -1,0 +1,39 @@
+
+# Sonos classification
+
+### **Home Theater (barras y sistemas)**
+Sonos Ray → WiFi: Sí | Bluetooth: No | Surround: No | Stereo Pair: No
+
+**Sonos Beam (Gen 2)** → WiFi: Sí | Bluetooth: No | Surround: Sí (con Era 100/300, Sub) | Stereo Pair: No
+
+**Sonos Arc** → WiFi: Sí | Bluetooth: No | Surround: Sí (con Era 100/300, Sub) | Stereo Pair: No
+
+**Bundles Home Theater** (Arc + Sub, Beam + Sub Mini, Immersive Sets) → WiFi: Sí | Bluetooth: depende de los Era incluidos | Surround: Sí | Stereo Pair: No
+
+### **All-in-One (parlantes de sala)**
+Sonos Era 100 → WiFi: Sí | Bluetooth: Sí | Surround: Sí (como rear con Beam/Arc) | Stereo Pair: Sí
+
+**Sonos Era 300** → WiFi: Sí | Bluetooth: Sí | Surround: Sí (rear con Arc/Beam) | Stereo Pair: Sí
+
+**Sonos Five** → WiFi: Sí | Bluetooth: No | Surround: No | Stereo Pair: Sí
+
+**Stereo Pairs oficiales** → Era 100, Era 300, Five → todos permiten emparejarse en par estéreo.
+
+### **Portátiles**
+**Sonos Roam / Roam SL** → WiFi: Sí | Bluetooth: Sí | Surround: No | Stereo Pair: Sí (dos Roam)
+
+**Sonos Move / Move 2** → WiFi: Sí | Bluetooth: Sí | Surround: No | Stereo Pair: Sí (dos Move)
+
+### **Accesorios**
+Sonos Sub (Gen 3) → WiFi: Sí | Bluetooth: No | Surround: Sí (con Beam/Arc/Era) | Stereo Pair: No
+
+**Sonos Sub Mini** → WiFi: Sí | Bluetooth: No | Surround: Sí (con Beam/Ray/Era) | Stereo Pair: No
+
+### **Resumen rápido**
+Surround compatibles: Beam Gen 2, Arc, Era 100, Era 300, Sub, Sub Mini.
+
+**Stereo Pair compatibles:** Era 100, Era 300, Five, Roam, Move.
+
+**Bluetooth**: Solo Era 100, Era 300, Roam, Move (y sus variantes).
+
+**WiFi:** Todos los dispositivos Sonos.
