@@ -26,10 +26,13 @@ El proceso es el mismo en wi-fi y wired:
 
 ![alt text](image-16.png)
 
-### Reasons for Failures
+## Reasons for Failures
 
 - Sonos ZP (Sonos player)
 - We need to ask the topology.
 - Los managed tienen mas de 16 ports y no tenemos la posibilidad de manipularle los settings.
-- 
-- 
+- El access control, es difícil de ver, normalmente tienen 4 puertos, algunas veces el AP solo está en el otro, para arreglarlo se puede cambiar de puerto.
+- Esto normalmente, se puede usar para que los usuarios de una red no tengan acceso a ciertos webs, es como un bloqueo.
+- El airtime, le asigna ancho de banda a los que tienen una velocidad menor.
+- Asis TX algo, tiene un tipo de airtime fairness, que lo que hace es que da problema, en muchos casos hay que darle disabled.
+- Una de las características que tiene un guest network, es que no tiene password.
