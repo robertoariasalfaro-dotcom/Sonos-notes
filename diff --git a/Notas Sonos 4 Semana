@@ -275,7 +275,7 @@ En ese caso hay que ponerle un bridge mode a uno de los dos, para arreglarlo.
 - **Name:** Tyler Smigelski
 - **Phone:** 2166950090  
 - **System:Existing/New:** Existing 
-- **App / Controller:** XXXXXXXXXXXXXX
+- **App / Controller:** NA
 - **Sonos product and room name:** Sonos Beam
 - **Troubleshooting:** 
 - * Validation
@@ -288,15 +288,11 @@ En ese caso hay que ponerle un bridge mode a uno de los dos, para arreglarlo.
 - * The caller was asked to get to the TV settings.
 - * Plug back the Apple TV
 - * The issue was resolved. 
-- * 
-- *
-- *
-
 
 - **If resolved**
 - **Summarize the resolution:** XXXXXXXXXXXXXX
 
-- **Final Diag:** XXXXXXXXXXXXXX
+- **Final Diag:** NA
 
 - **If not resolved**
 - **Recommended next steps and Guru cards:**
