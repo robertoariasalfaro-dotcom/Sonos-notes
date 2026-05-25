@@ -221,6 +221,16 @@ If there is a system not found, quiere decir que habia un network, hay que pregu
 
 - En ese caso para ver se necesita ver si el speaker recibe, hay que ver el LED test que tenga ambar o naranaja, flashing o solid ambar o naranja.
 - Si no tiene IP hay que ir a los router settings.
+
+![alt text](image-37.png)
+
+Si no receive IP address, hay que preguntar por la topología, para ver compatibilidades, se confirman los routing settings, desconectamos el switch, hacemos un bypass, conectamos el device directo al modem en lugar del switch.
+
+- ### How do we further confirm the data path as the source of the issue?
+- Remove unsported device from the topology (Simplificar el topo).
+- If this an station mode, estamos testeando la variable data path, si no funciona se hace un wired, pueden ser los router settings.
+- Si no se pueden cablear como los roam, move, hay que decirle que los acerque el modem.
+- Con el LED test se puede ver el estado del device.
 - 
 
 
