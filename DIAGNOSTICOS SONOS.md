@@ -268,6 +268,10 @@ La **M** es de **multicast** en ese ultima sección, en este caso tiene que esta
 
 Tiene que tener el multicast activo, si no, no funciona Sonos, algunas veces se tiene que activar.
 
+- Esto es para ver el multicast esta funcionando, es importante que la M este en mas de 100.
+
+- Si no tenemos broadcast o multicast, es mejor cablearlo.
+
 ![alt text](image-15.png)
 
 ### **ANACAPA**
