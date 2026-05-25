@@ -36,3 +36,42 @@ El proceso es el mismo en wi-fi y wired:
 - El airtime, le asigna ancho de banda a los que tienen una velocidad menor.
 - Asis TX algo, tiene un tipo de airtime fairness, que lo que hace es que da problema, en muchos casos hay que darle disabled.
 - Una de las características que tiene un guest network, es que no tiene password.
+- El environment puede afectar, distancia, obstáculos, interferencia de devices como printers, cameras, microwaves.
+- Shared option, otros estan usando el adjacent, el shared y el adjacent son redes separadas, estos están en diferentes canales.
+- Esto da problema, Sonos recomiendo que todos esten en el mismo canal, shared es que stan usando canales diferentes, el router tiene auto o manual channell, puede escoger cualquiera, si lo ponemos en manual se le asigna el canal manualmente.
+- Si estamos en Sonos.net se cambia en el router, si no se cambia en la aplicación.
+- El adjacent es que todos utilizan el mismo channel, el 1, 6 o 11.
+
+![alt text](image-17.png)
+
+- En este caso sería un missing room or can't connect to Sonos.
+- En este caso habría que deshabilitar el DHCP.
+
+![alt text](image-18.png)
+
+- In this case, the case is "System not found", el celular se va a conectar a cualquiera de las dos redes, por lo que algunas veces lo va a ver y otras veces no.
+
+![alt text](image-19.png)
+
+- En este caso hay que deshabilitar el DHCP para que no se asignen.
+- Bridged networks.
+- La responsabilidad nuestra es dejar el system up and running, algunas veces se refiere al ISP.
+
+![alt text](image-20.png)
+
+- Esto es un Double NAT.
+- Hay que disabled el DHCP y cambiar el nombre de las redes o SSID.
+- En este caso no es un sistema, son dos.
+- Si se hace un LED test debe de dar un orange light.
+- Tiene dos redes con el mismo nombre.
+
+![alt text](image-21.png)
+
+- En ese caso se puede quitar el swich, habría que decirle que conecte directamente el el device al router directo, tamhien se puede intentar hacer wireless.
+- El switch no se quita se cable el speaker directo al modem.
+
+![alt text](image-22.png)
+
+- Estos con los router setting/failures.
+- Se puede agregar un MAC o quitarlo de la lista de blocked devices.
+- 
