@@ -77,5 +77,114 @@ El proceso es el mismo en wi-fi y wired:
 
 ![alt text](image-23.png)
 
+![alt text](image-24.png)
+
+- La interferencia puede ser física o wireless, hay que preguntar por las distancias y ver los obstacles.
+- Shared es que el same Wi-Fi channel from the AP.
+- El adjacent es que tiene dos APs
+- Channell Overlap.
+- El cable también tiene que ver, por si estuviera malo.
+
+![alt text](image-25.png)
+
+- El Gurú se llama: **"LED Status on Sonos Product".**
+- El **Connect Button** es el que se presiona para poder conectar, puede ser un simbolo del infinity, el play-pause, un pequeño speaker.
+- Para sacarlo, hay que apretar el boton y release para iniciar el test.
+- Se supone que no es necesario esperar 10 segundos.
+- No hay que decirle que lo aprete demasiado rato, es una forma de  manualmente ponerlo en Access Point mode y envíe broadcast.
+- Access point mode.
+- Dos luces importantes, **SOLID and FLASHING ORANGE, SOLID AND FLASHING GREEN**
+- Razones para hacerlo, missing speaker, can't connec to Sonos, missing room, se hace LED diagnostic es lo mismo que LED Test, es uno de los pasos mas importantes.
+- Connectivity issues con el network, hay que hacer LED diagnostic mode.
+- Si el speaker esta wireless, si esta down sale por que no se está conectando, el amber light es si esta wired, importan el ambar y el green.
+- **We can run a dianosis and the LED lights, will show different lights, could be solid and flashing**, el cliente debe de saber que se va a hacer.
+
+- Esta inicia y termian en solid red.
+- Press and hold, until you see a solid red light.
+- algunas veces se hace el play-pause, bluetooth, infinity buttom.
+- Para sacarlo del text se apreta solo una vez.
+- El LED de los speakers es diferente al diagnóstico.
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+- Ask for the lights, ask for the ports, the buttons, flip it over and see the model or the MAC Address.
+
+- ### SOLID AMBER:
+- Indicates that the device has received an IP address
+- ### FLASHING AMBER:
+- Indicates that the player has failed to obatin a DHCP address and instead has reverted ton an Auto IP address.
+- ### SOLID GREEN:
+- Indicates that the Ethernet interface is up
+- ### FLASHING GREEN:
+- Indicates that the ethernet is down.
+
+### SIEMPRE TIENE QUE ESTAR SOLID WHITE PARA QUE SE PUEDA INICIAR EL TEST
+
+- ## El SOLID RED, SALE PARA INDICAR QUE EL DIAGNOSIS VA A EMPEZAR.
+
+- PRESS PLAY PAUSE AND CHECK IF THE RED LIGHT SHOWS.
+- Hold the butoom(s) until you see the solid red, don't worry about the 3 or 10 seconds.
+- En este caso se estaba troubleshooteando el Play 3 que es un legacy.
+
+### ESTA ES LA SECUENCIA DE COLORES EN LOS TESTS.
+
+- Solid Red
+- Flashing White
+- Solid Amber
+- Flashing Amber
+- Solid green
+- Flashing green
+- Solid white
+- Flashing white
+- Solid Red
+
+- ## **For players without a connect button, press and hold both the play/pause and Volume down for over 10 seconds.**
+
+- **LEGACY DEVICES DO NOT HAVE JOIN BUTTON.**
+- **EL PLAY BASE TIENE EL JOIN BUTTON EN UN LADO.**
+- Algunas veces se hace con el mute bottom.
+- Para salir del test se apretan los mismos botones pero solo un segundo.
+
+### CAN'T CONNECT TO SONOS
+
+- Es cuando el controller no se puede conectar a la red, Sonos puede funcionar si está cloud connectec.
+- Es un association failure, no se conectan los parlantes con el controller.
+- Es importante la parte que dice que la asociación es para linkear o asociar un device a un controller.
+- Have a controiller that I need to link it to an existing system.
+
+
+![alt text](image-28.png)
+
+- When we have a new controller and we need to be able to see the devices linked to the controller.
+- Association, es cuando el controller se va a linkear al sistema de Sonos.
+- Se usa un SNF que trae info solo del controller, es uno de los mejores diagnosticos, puede ver SSID, IP, device type, Sonos app.
+
+![alt text](image-29.png)
+
+- Al inicio del Controller Summay, saldría si esta **"Associated to"**.
+
+![alt text](image-30.png)
+
+- El associated player (el primer dispositivo que responde cuando el cliente abre la App de Sonos)es el primero que responde.
+- Multicast, es un mensaje que se envía de uno a varios.
+- El Unicast es un peer to peer.
+- Brodcast es el que envía un mensaje a todo lo que tenga IP address en ese network, incluyendo printers y otros devices, que basicamente no hacen nada.
+
+![alt text](image-31.png)
+
+- El unicast es la comunicacion con el controller.
+- 
+
+
+
+
+
+
+
+
+
+
 
 
