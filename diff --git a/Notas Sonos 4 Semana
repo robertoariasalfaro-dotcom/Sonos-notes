@@ -175,8 +175,53 @@ El proceso es el mismo en wi-fi y wired:
 ![alt text](image-31.png)
 
 - El unicast es la comunicacion con el controller.
-- 
 
+### TROUBLESHOOTING
+
+- We need to take into account the three variables.
+- We need to eliminate or isolate the variables.
+- Data Path, Source path, player.
+- Si yo estoy en station mode la comunicación es wireless, si estoy en Sonos net, el root bridge no sirve, por que por ejemplo talvez no tiene IP, el cable malo, power off, tenemos un SNF y la cause es el player.
+
+![alt text](image-32.png)
+
+If there is a system not found, quiere decir que habia un network, hay que preguntarle si cambió algo, power outage, movió los devices o algo similar que haya cambiado.
+
+- El data source sería el controller, can you see the system in another contoller.
+- Check iOs permissions.
+- El player es el associated player or controller, no es lo mismo que el root bridge, puede que de casualidad sea el mismo, uno es el que estas wired y el otro es el que reponde primero.
+
+![alt text](image-33.png)
+
+- En Sonos net el unico que responds es el root bridge, esto se nota preguntando si tiene algo wired to the router.
+- Hay que ver que está conectado a un root bridge.
+- Hay que preguntar si hay algo cableado.
+- Ahi se pregunta por el led light, si esta flashing green esta listo.
+- Si el sistema está down, si simplemente se agrega haria otro household.
+- En algunos casos se le puede decir que desconecte el cable.
+- Es importantisimo ver el root bridge, si hay algo conectado.
+
+![alt text](image-34.png)
+
+## CAN'T CONNECT TO SONOS, HAY QUE PENSAR EN LA TOPOLOGY.
+
+- Puede ser un router incompatible.
+- Para ver si es el controller, hay que solicitar un diagnosis.
+- Para testear el data source, que en este caso es el controller.
+
+### EL SOURCE ES EL CONTROLLER.
+
+- Si el controller no sirve, hay que conseguir otro dispositivo que muestre el sistema, en ese caso seria el data path.
+
+![alt text](image-35.png)
+
+# DATA PATH
+
+![alt text](image-36.png)
+
+- En ese caso para ver se necesita ver si el speaker recibe, hay que ver el LED test que tenga ambar o naranaja, flashing o solid ambar o naranja.
+- Si no tiene IP hay que ir a los router settings.
+- 
 
 
 
