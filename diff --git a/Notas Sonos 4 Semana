@@ -1,0 +1,31 @@
+
+## Troubleshooting
+
+![alt text](image-14.png)
+
+El Sonos crea una red temporal para que el speaker y el controller, sean agregadas a la red.
+
+El proceso es el mismo en wi-fi y wired:
+
+- El controller, revisa y encuentra el device que está UPnP, al inicio hace un multicast y lo encuentra, luego envia un mensaje unicast y el modem le asigna el IP mediante DHCP, ahí se pueden comunicar.
+
+- Speaker le pregunta al router si se puede conectar es con el MAC address, the IP is needed to fully communicate.
+
+### Sonos Setup
+
+- Cuando hay un sistema ya en wireless, pero hay algo que no sirve, algunas veces se agrega al router conectado directamente, pero como ya hay un sistema existente en un sistema Wireless y algo no se conecta.
+- Si hay bronca se le puede decir que lo ponga cerca del modem.
+- Si tiene **luz naranja** es que **tiene un IP asignado.**
+- Si tiene IP el DHCP, el multicast y el unicast funcionan.
+- Hay que preguntar si tiene antivirus, mac filtering, and firewall.
+- Se le puede preguntar si tiene algun otro controller, si esta en Sonos net, el speaker se agregar fácilmente.
+- Hay que ver si el root bridge, tiene algun problema de comunicación, ya que ese root es el encargado de comunicarse con los otros device en la net.
+- Station Mode, the data goes to any single player.
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+### Reasons for Failures
+
+

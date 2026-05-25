@@ -1,4 +1,4 @@
-TROUBLESHOOTING
+# TROUBLESHOOTING
 
 ### VARIABLES
 
@@ -6,14 +6,20 @@ TROUBLESHOOTING
 - Data Path
 - Player
 
-### Data Source
-Es la música que viene del alguna fuente, es de donde viene la data, el source puede ser el controller, music service, music library, line-in, voice services, the TV. Where the music or data is coming from
+![alt text](image-12.png)
 
-### Data Path
-- El camino que toma esta data para llegar del punto A al punto B, esto puede ser, cables, HDMI cable, network, access point, basicamente el path es el network.
+### Data Source
+Es la música que viene del alguna fuente, es de donde viene la data, el source puede ser algo como el controller, music service, music library, line-in, voice services, the TV. Where the music or data is coming from.
+
+### Data Path (Topo)
+- El camino que toma esta data para llegar del punto A al punto B, esto puede ser, optical cable, HDMI cable, network, router, access point, basicamente el path es el network, es relacionado al topology.
 
 ### Player
 - Básicamente es el Sonos Device
+
+Si le han hecho mucho intentos y no funciona muy probablemente sea el modem o router.
+
+![alt text](image-13.png)
 
 #### Questions about variables
 
@@ -29,6 +35,7 @@ Es la música que viene del alguna fuente, es de donde viene la data, el source 
 - Line-In source
 - Phone (Airplay or Casting)
 - Music Library
+
 - ### **Data Path**
 - Router/Gateway
 - Player to player Communication
@@ -36,6 +43,7 @@ Es la música que viene del alguna fuente, es de donde viene la data, el source 
 - Topology
 - Internet
 - Player to player communication direct routing/grouping.
+
 - ### **Data Player**
 - Sonos Devices
 
