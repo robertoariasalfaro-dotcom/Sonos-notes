@@ -233,6 +233,13 @@ Si no receive IP address, hay que preguntar por la topología, para ver compatib
 - Con el LED test se puede ver el estado del device.
 - 
 
+![alt text](image-38.png)
+
+Pueden ser hasta 8 access points.
+
+En ese caso hay que ponerle un bridge mode a uno de los dos, para arreglarlo.
+
+
 
 
 
