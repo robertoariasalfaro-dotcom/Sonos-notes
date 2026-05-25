@@ -239,7 +239,86 @@ Pueden ser hasta 8 access points.
 
 En ese caso hay que ponerle un bridge mode a uno de los dos, para arreglarlo.
 
+## SHADOWING
 
+- **Issue description:** Volumen and sound affected in only one of the Sonos devices.
+- **Name:** Menchaca / Richmenchaca@yahoo.com richard.menchaca@borinc.com 
+- **Phone:** 9152393539  
+- **System:Existing/New:** Existing 
+- **App / Controller:** XXXXXXXXXXXXXX
+- **Sonos product and room name:** Amp
+- **Troubleshooting:** 
+- * The caller informed that one speaker was sounding horrible.
+- * The agent asked for a SNF diagnostic.
+- * Number 1767985495
+- * The caller was asked to until it got solid white.
+- * The agent asked if all the speakers are Sonos devices.
+- * The cx mentioned that the infinitys are third party.
+- * The agent asked for a LED test.
+- * The agent ran an auto diagnosis.
+- * Agent asked if the issue happened when the devices get grouped.
+- * The volume in one of the speakers sounds horrible not in the same leve.
+- * 
+
+- **If resolved**
+- **Summarize the resolution:** The issue was resolved without any troubleshooting applied.
+
+- **Final Diag:** XXXXXXXXXXXXXX
+
+- **If not resolved**
+- **Recommended next steps and Guru cards:**
+- **Actions or tests the customer will do:**
+
+## SHADOWING III
+
+- **Issue description:** Beam not responsive, unrecognizable from TV wired and casted.
+- **Name:** Tyler Smigelski
+- **Phone:** 2166950090  
+- **System:Existing/New:** Existing 
+- **App / Controller:** XXXXXXXXXXXXXX
+- **Sonos product and room name:** Sonos Beam
+- **Troubleshooting:** 
+- * Validation
+- * Caller was asked to run a manual diagnostic. 20914716
+- * Cx asked to unplug all the HDMI devices connected to the apple TV, only leaving the soundbar, unplug the Apple TV and the soundbar.
+- * Plug back the soundbar.
+- * Unplug the HDMI cable.
+- * Enable CEC
+- * The TV is a Sony TV.
+- * The caller was asked to get to the TV settings.
+- * Plug back the Apple TV
+- * The issue was resolved. 
+- * 
+- *
+- *
+
+
+- **If resolved**
+- **Summarize the resolution:** XXXXXXXXXXXXXX
+
+- **Final Diag:** XXXXXXXXXXXXXX
+
+- **If not resolved**
+- **Recommended next steps and Guru cards:**
+- **Actions or tests the customer will do:**
+
+
+- Es importante aislar la variable.
+- Se debe de verificar si los cables estan funcionando bien.
+- Si sigue el issue, se haría un RMA para el que esta conectado al ampli.
+- 
+
+Stopped being recogneze by the TV, operating cast the sound to the beam, now is not working, tried unpluggind tv, beam. to make sure if that is connected to the 
+
+Tyler Smigelski
+
+tysmigelski11@gmail.com
+
+2166950090
+
+- Beam is not responsive, unrecognizable from TV wired and casted.
+- VAmos a desactivar todos los HDMI conectados al tele.
+- 
 
 
 
