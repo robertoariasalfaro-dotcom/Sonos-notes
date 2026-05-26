@@ -618,6 +618,20 @@ https://app.getguru.com/card/TgdyL8kc/Adding-a-music-library-share
 
 - Si el firewall esta dando problemas, se revisa en Anacapa y ahi sale, luego hay que ir a network/firewall y ahí se le da turn off.
 - Hay que ir a los system settings/network/ y ahi se ve la lista de los allowed.
+- Tambien hay que revisar los permisos.
+
+![alt text](image-87.png)
+
+![alt text](image-88.png)
+
+**SLS**
+
+- Es el que controla los permisos.
+- HDCP es un protocolo que no ocupa tantos permisos.
+- SLS es basicamente cuando el cliente descarga la app de Sonos, en el backend se descarga el SLS.
+- Es relacionado a los permisos.
+- Si estan es S1, el SLS debe de estar enabled.
+- Hay que recrear el music share.
 - 
 
 
