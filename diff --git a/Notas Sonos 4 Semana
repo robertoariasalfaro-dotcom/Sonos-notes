@@ -346,7 +346,7 @@ El Samsung Frame que es un modelo de TV que es completamente plana y parece un c
 
 ![alt text](image-42.png)
 
-### Este es como se debe de ver un diagnostico
+## Este es como se debe de ver un diagnostico
 
 ![alt text](image-43.png)
 
@@ -354,7 +354,98 @@ El Samsung Frame que es un modelo de TV que es completamente plana y parece un c
 - Esto sale en el detalied components or HT settings or info (only first digit is populated).
 - Los puertos se usan con el segundo numero.
 - El logical address es 5, significa que es el dispositivo que genera o saca el audio, el logical address 5 tiene que ser el de sonos.
+- El internal audio source, tiene que estar deshabilitado, si no, todo saldría desde el tele.
+- ARC, es el audio return channel y needs to be used.
+- System audio mode, esto tiene que estar online.
+- TV CEC status, needs to be enabled.
+- Tambien hay un CEC status interno.
+- Sonos needs to logical address 5 mandatory.
+
+## HD Topology
+
+En este caso hay tres puertos, uno se usa para el HDMI to one box, en el segundo está conectado un HDMI Arc y el último está empty.
+
+![alt text](image-44.png)
+
+El Samsung One connect system si es supported.
+
+![alt text](image-45.png)
+
+## Audio cutting out on main home theather
+
+![alt text](image-46.png)
+
+En este caso hay que estar seguro de las variables:
+
+- **Data path**
+- **Data source**
+- **Player**
+The TV, the cable or the player.
+
+Home TV audtio settins
+
+En Anacapa se ve lo software related, se ven las letras rojas.
+
+### **Anacapa HT**
+
+Esto es lo relacionado al software y al Home Theater directamente.
+
+Cuando el cable o path está dando problemas, se le puede decir que si tiene otro y que lo cambie.
+
+### Se puede testear de hdmi a optical, no se puede tester un optical a un hdmi, solo hay un adaptador, pero no se puede de optico a hdmi por que el puerto optico carece de pines.
+
+![alt text](image-47.png)
+
+### Low Volume
+
+![alt text](image-48.png)
+
+- El diag con el home theater es importantísimo revisarlo.
+
+- Something below 25 would be considered quiet.
+
+### No audio on Satelites
+
+![alt text](image-49.png)
+
+- En este caso es importante revisar el data source.
+- Los satelites se testean si tiene algun otro source de música en lugar del TV algo de música.
+- Ahi hay que ver si hay walls en el middle y ver si hay interferencia.
+- Es importante que se pruebe con música no con speechs.
+- Hay que chequear Component Summary Wireless Summary/room settings/surround audio room settings/SUB
+- Asi es como se debe de ver para que sea considerado correcto y funciona.
+
+### Audio Cutting Out in Satelites.
+
+![alt text](image-50.png)
+
+- En esta columna final **PER** se ve si hay interferencia y la perdida de paquetes entre el main home theater y los surrounds, si es mas de 25% de pérdida hay interferencia.
+
+### Unable to add satelites
+
+![alt text](image-51.png)
+
+- El connect/amp es la versión vieja del Amp.
+- Se puede escribir como C:Amp eso es lo mismo que Connect Amp.
+- El connect amp tiene banana plugs.
+- Se puede usar como surround wirelessly, usa la frecuencia 5, no tiene antena, este se debe de conectar wired, tiene dos puertos.
+- No puede ser un root bridge, debe de ser un beam.
+- Both the beam y el C:amp deben de conectarse wired al router.
+- Si hay una base y un router, el Player 1 cualquiera debe de ir conectado wired al router y serviría como root bridge.
+- El Play base y el Connect amp, deben de ir cableados.
+- El Connect amp si quiere ser surround tiene que ir cableado.
+- La diferencia entre todos los soundbar y el playbar, es que tiene dos intenet ports.
+- Uno va al router y el otro va al connect amp.
+- El play base no esta cableado al router.
+- Si hay un topo donde solo hay un router un play bar y un c:amp, se conecta de los dos puertos del play bar, uno va del play bar al router y el otro wired va an C:amp.
+- El ERA no tiene internet port pero tiene un adapter.
+- El sistema tiene que estar en sonos.net.
 - 
+
+
+
+
+
 
 
 
