@@ -440,7 +440,46 @@ Cuando el cable o path está dando problemas, se le puede decir que si tiene otr
 - Si hay un topo donde solo hay un router un play bar y un c:amp, se conecta de los dos puertos del play bar, uno va del play bar al router y el otro wired va an C:amp.
 - El ERA no tiene internet port pero tiene un adapter.
 - El sistema tiene que estar en sonos.net.
-- 
+- **ERA 100 y ERA 300 do not support Sonos.net.**
+ 
+## PARA REVISAR INTERFERENCIA
+
+Fyer, WFTX
+
+### Si queremos revisar lo del HT, hay que revisar lo siguiente: 
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+- Se revisa lo mismo que en los otros, el room noise, anacapa, fyer, Wi-fi tx stats.
+
+### DME SG Log
+
+![alt text](image-54.png)
+
+- En este caso es importante saber donde se encuentra el DMD SG Log, ahi se puede ver la información relacionada al proxy.
+
+![alt text](image-55.png)
+
+- En este imagen se puede ver si es un double nat, por que en la sección de household, tiene dos DNS, o sea que es un double NAT.
+- Tambien hay que ver la distancia entre dispositivos.
+- Tambien hay que ver las baterías de los controles.
+- Tambien hay que ver si hay mucha luz en el room.
+
+### IR Remote Conrol Failure
+
+![alt text](image-56.png)
+
+- En esta parte se puede ver si está enviando señal infrarojo al TV:
+
+![alt text](image-57.png)
+
+
+
+
+
+
 
 
 
