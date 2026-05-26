@@ -319,7 +319,44 @@ tysmigelski11@gmail.com
 
 ## MARTES 26 DE MAYO
 
+Los Home Theaters son:
+
+- Arc and Acr Ultra
+- Beam Gen 1 and 2.
+- Ray
+- Amp
+
+No Audio on main home theater
+
+![alt text](image-40.png)
+
+Sonos needs to be connected to the TV directly.
+
+El Samsung Frame que es un modelo de TV que es completamente plana y parece un cuadro pegado a la pared. No es compatible por que no tiene un puerto ARC, pero tiene la opción de tomar un Samsung box que si es compatible.
+
+![alt text](image-41.png)
+
+- Chequear que el cable esté bien conectado.
+- Verify the TV audio settings.
+- Verify the TV audio is in a supported format.
+- If optical cable, verify that the light is coming out from the product end of the cable.
+- Is there any device between the TV and the product?
+- Adapters are not supported.
+- CEC consumer electronic control.
+
+![alt text](image-42.png)
+
+### Este es como se debe de ver un diagnostico
+
+![alt text](image-43.png)
+
+- Physical address: ahí se ve que el puerto usado es el 3 ya que sale 3.0.0.0 en el diagnóstico.
+- Esto sale en el detalied components or HT settings or info (only first digit is populated).
+- Los puertos se usan con el segundo numero.
+- El logical address es 5, significa que es el dispositivo que genera o saca el audio, el logical address 5 tiene que ser el de sonos.
 - 
+
+
 
 
 
