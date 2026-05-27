@@ -798,6 +798,64 @@ https://roadie.sonos.com/apps/tokenEmails/
 
 Esto es pare reseteos y para enviar el email de verification.
 
+## VOICE SERVICES
+
+- They use the same network internet and Sonos cloud connection as music services.
+- Check the microphone.
+- Los ERA 300 y los 100 tiene dos microfonos.
+
+![alt text](image-107.png)
+
+- El microfono tiene una luz encendida normalmente.
+- Hay que chequear los basic commands, ahi normalmente el problema es Alexa.
+- No se puede tener Alexa en dos diferentes locations.
+
+https://app.getguru.com/card/ie4554rT/Troubleshooting-common-Amazon-Alexa-Issues-
+
+https://app.getguru.com/card/TAKqzxnc/Issues-linking-Google-Assistant-with-Sonos
+
+https://app.getguru.com/card/iM5nbr4T/Sonos-Voice-Control-Not-Responding
+
+![alt text](image-108.png)
+
+- Recomendable descargar el app de Alexa.
+
+- Para Alexa hay que seguir estos pasos.
+
+![alt text](image-109.png)
+
+- Remove and readd the voice services, esto casi siempre funciona.
+- Puede haber un mismatch en las cuentas, por que puede que hayan dos cuentas diferentes y que cuando se hizo se linkeó a otra cuenta.
+- Los voice commands puede que sirvan o no.
+
+![alt text](image-110.png)
+
+![alt text](image-111.png)
+
+- Hay que tener mucho cuidado con los grouping, los grupos es agarrar todos los speakers y ponerlos a sonar con lo mismo.
+- Lo de Alexa se setea en Alexa.
+- Los grupos se hacen en Alexa.
+- Se les da nombre, es recomendable que tengan el mismo group name que tiene en Sonos.
+- Alexa puede agrupar dos grupos y agruparlos en un solo grupo nuevo.
+
+
+![alt text](image-112.png)
+
+- Reenabled the Skill, esto se setea y se desactiva en el app de Alexa.
+
+### Este es el proceso de troubleshooting de Sonos voice
+
+![alt text](image-113.png)
+
+SBC = Sonos Voice Control
+
+![alt text](image-114.png)
+
+https://app.getguru.com/card/TLzpekzc/Voice-Service-Compatibility-by-Product
+
+https://app.getguru.com/card/TLzpekzc/Voice-Service-Compatibility-by-Product
+
+
 
 
 
