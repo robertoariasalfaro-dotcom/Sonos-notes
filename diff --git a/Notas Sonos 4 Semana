@@ -637,6 +637,108 @@ https://app.getguru.com/card/TgdyL8kc/Adding-a-music-library-share
 https://app.getguru.com/card/cbM8nEBi/Unable-to-add-Music-Library-due-to-unsupported-connection-type
 
 
+## MIERCOLES 27 DE MAYO
+
+- Puede ser un skip, que se pasa a la otra canción.
+- Que se haga un drop, que es que dura un rato, tiene como un lag.
+
+**Puede ser por:**
+- Distance
+- Formats
+- Inteference
+- Network issues
+
+En audio dropouts hay que ver demasiadas cosas.
+Hay que preguntar mucho, hasta line-in pasa por el network.
+
+algunos sources son el line-in, TV, Music player, con el line in van los ARC, music services.
+
+Aquí hay un link para ver si hay issues reportados.
+
+https://status.sonos.com/
+
+## PROBING QUESTIONS
+
+- Is it happening in only one unit?
+- LED status when the drop is happening?
+- What source is the cx using?
+- Is the user using multiple sources?
+- When did the issue start?
+- Any network modification?
+- SonosNet or Station Mode?
+
+### En **sonos net** para poder modificar el canal de wifi hay que ir al **Sonos app**, si esta en **station mode**, el canal se asigna en el **router settings**.
+
+ANACAPA es software related, hay que ver los red numbers.
+
+![alt text](image-89.png)
+
+### Aqui se ve la diferencia entre un diagnostico que se tomó cuando no había musica y cuando no
+
+![alt text](image-90.png)
+
+### ANACAPA
+
+![alt text](image-91.png)
+
+### En este si esta arriba de 25% de perdida de paquetes, entre 25 y 30 por ciento esta mal y hay que investigar.
+
+![alt text](image-92.png)
+
+### AP TX Stats
+
+Este es para station mode, se revisa el multicast, se puede revisar la perdida de paquetes tambien, hay que ver los red numbers.
+
+![alt text](image-93.png)
+
+Si estamos en Sonos net, se inicia revisando el root bridge.
+
+- Grouping es playing music, el GC es el que inicia el grupo se selecciona de primero en la app.
+
+- El associate player es el primero que se asocia al controller.
+
+- El root bridge puede ser el coordinator, esto se hace solo.
+- El Router, el Root bridge, tambien exite el group coordinator.
+- Se debe de preguntar en cual es el que tiene problemas.
+- Se pide un diagnostic, se revisa primero el group coordinator el 
+- El associate player casi que solo para music library.
+- Group coordinator y root bridge, se inicia por el coordinator.
+- Hay que revisar de primero los logs que tienen ver con el root bridge, y los group memebers, se incia con el root bridge por que es el que esta wired,
+- Primero el root bridge y el group coordinator y luego los group members.
+- Se pueden hacer diferentes tests.
+- Hay que ver el group coordinator, puede aguantar 9-10 speakers o mas connected.
+
+### COMO VIAJA LA DATA EN UN GROUPING
+
+- La data viene del cloud pasa por el ISP entra al modem
+- Le da la data primero al root bridge.
+- El root bridge le da la data al group coordinator.
+- Y este le pasa la info a los group members.
+
+ ### STATION MODE TODO VA A SER NETWORK RELATED.
+
+### Direct Routing Matrix
+
+- Esto es solamente cuando hay un grupo.
+
+![alt text](image-94.png)
+
+- El RSSI es la señal que se recibe de otro speaker.
+- Se debe de ver solo lo que esta en el cuadro azul.
+- Si dice low es que estan muy largo.
+- Esto mide la comunicación entre parlantes.
+- El boost solo cableado, es un repetidor.
+
+![alt text](image-95.png)
+
+- Los colores no significan nada.
+
+### Direct routing 
+- Direct routing da la habilidad de determinar cual es la mejor via para llegar, eso quiere decir que no todos se van por la misma via.
+- Es utilizar diferentes vias para llegar al mismo parlante.
+- En sonos net estos tienen tegnologia que envia la señal por el canal mas eficiente.
+- 
+
 
 
 
