@@ -733,11 +733,47 @@ Si estamos en Sonos net, se inicia revisando el root bridge.
 
 - Los colores no significan nada.
 
-### Direct routing 
+## Direct routing 
 - Direct routing da la habilidad de determinar cual es la mejor via para llegar, eso quiere decir que no todos se van por la misma via.
 - Es utilizar diferentes vias para llegar al mismo parlante.
 - En sonos net estos tienen tegnologia que envia la señal por el canal mas eficiente.
-- 
+- Utiliza el camino mas facil
+- Spanning 3 Protocol, es la tegnologia que se usa para el direct routing.
+- Network matrix es para speakers que estan en Sonos.
+
+- #### PHYER
+
+![alt text](image-96.png)
+
+Se ve los errores físicas, las dos ultimas columnas debe de estar en 0.
+
+#### NOISE FLOOR
+
+![alt text](image-97.png)
+
+- More than 5 jumps, no debe de haber mas de 5.
+
+**QUESTIONS TO ASK YOURSELF**
+
+![alt text](image-98.png)
+
+- La del environment es la mas importante.
+
+### Quality of Services
+
+![alt text](image-99.png)
+
+- Aquí hay que pensar en hacer un speed test.
+- Esta en el router.
+- Will improve the performance on the computer.
+- We need to disable it.
+
+![alt text](image-100.png)
+
+- We need to disable it.
+
+
+
 
 
 
