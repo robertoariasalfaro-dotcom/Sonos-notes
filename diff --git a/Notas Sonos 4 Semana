@@ -922,6 +922,52 @@ Dropped Rooms
 
 ![alt text](image-124.png)
 
+![alt text](image-125.png)
+
+- Mueva los devices y pongalos cerca del router.
+
+- LED diagnostic, presione el botón hasta que vea la luz roja.
+
+https://app.getguru.com/card/Tg44A7Bc/LED-Diagnostic-Mode-and-Local-Snapshots
+
+https://app.getguru.com/card/iBLoop8T/Button-Test
+
+### DIAGNOSTICS
+
+- Se inicia con el issue finder
+
+![alt text](image-126.png)
+
+![alt text](image-127.png)
+
+- Most of the time the issue is with the **double nat.**
+
+![alt text](image-128.png)
+
+- Es importante solicitar la topología.
+
+![alt text](image-129.png)
+
+![alt text](image-130.png)
+
+https://macvendors.com/
+
+- En esa página se pueden chequears los MACs para ver el fabricante.
+
+![alt text](image-131.png)
+
+- Si es un extender lo quitamos
+- Si es un mesh, le quita el wired al access point.
+- Este es de los issues mas comunes.
+- El ISP viene de afuera y da el ISP con un SSID, el que esta el cableado es el root, los demas con nodes.
+- Mesh es una malla.
+- Los nodos son speakers the Sonos.
+- Para que sea Mesh tiene que tener un root cableado, el Sonos system utiliza el mesh system.
+- One wired, sending info to the  nodes.
+- En este caso el ISP router y el mesh id Root generan dos SSIDs iguales, por lo que es un double nat.
+
+![alt text](image-132.png)
+
 
 
 
