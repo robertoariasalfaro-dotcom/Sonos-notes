@@ -858,6 +858,70 @@ https://app.getguru.com/card/TLzpekzc/Voice-Service-Compatibility-by-Product
 https://app.getguru.com/card/ir6EyGKT/Secure-Setup-Types-by-product
 
 
+### JUEVES 28 DE MAYO
+
+Dropped Rooms
+
+![alt text](image-115.png)
+
+![alt text](image-116.png)
+
+- Es cuando desaparece un room, por que hubo algun cambio.
+- Puede ser causado por que se fue la luz.
+- Puede causarlo un Double NAT
+- What is the status light, si dice que no tiene light.
+- Los productos nuevos como los ERAs, Moves, ARc Ultra vienen con la luz powered off.
+- Si usted le dice que aprete el volumen up or down y si ve luces es que sta prendido.
+- El ARC Ultra no puede hacer Sonosnet
+- Los ERA son station mode y los move.
+
+### Estas son las preguntas que se pueden hacer
+
+![alt text](image-117.png)
+
+![alt text](image-118.png)
+
+![alt text](image-119.png)
+
+![alt text](image-120.png)
+
+- Es importante saber si es el mismo que siempre se jode o es random.
+- El extender crea una nueva red con una nueva SSID.
+
+![alt text](image-121.png)
+
+- Como se puede testear el control para saber si es el control
+- Try with a different one
+
+![alt text](image-122.png)
+
+- Hay que decirle que utilice otro para testearlo.
+- Si no es esta opcion hay que buscar el path.
+- Hay una opción web, es solo para play music, no tiene mucha opción.
+- el sitio web is www.play.sonos.com
+- El web app funciona solo en compus y es muy bueno para ver si hay algun drop room desde ahi.
+- Se pueden subir diagnóstico desde ahí.
+
+### LUEGO HAY QUE REVISAR EL PATH
+
+- El data path puede estar afectando.
+- What should we investaigate further if  we suspect the data path is the root cause of the issue?
+- Puede preguntar si algo cambió.
+- Hay que preguntar por la topología.
+
+![alt text](image-123.png) 
+
+## Make and model of every hardware device
+
+- Hay que ver donde esta todo, make, model y si se movió algo.
+- Questions can you ask the cx to determin which troubleshooting path to follow?
+- Any changes?
+- How many devices.
+- Did you move the devices to another location.
+- Distance
+
+![alt text](image-124.png)
+
 
 
 
